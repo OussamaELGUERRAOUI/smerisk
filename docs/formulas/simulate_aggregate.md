@@ -1,4 +1,11 @@
-# `simulate_aggregate`
+---
+title: Monte Carlo aggregate simulation in Python
+description: Simulate signed uncertain components over several periods with correlations, and get the distribution of the total, for example a weekly cash balance.
+---
+
+# Monte Carlo aggregate simulation in Python
+
+Function: `simulate_aggregate`
 
 ## Purpose
 

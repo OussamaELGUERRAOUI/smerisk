@@ -1,4 +1,11 @@
-# `kupiec`
+---
+title: Kupiec backtest of VaR exceedances in Python
+description: Test whether the observed number of threshold exceedances is consistent with the expected rate, using Kupiec's likelihood-ratio test.
+---
+
+# Kupiec backtest of VaR exceedances in Python
+
+Function: `kupiec`
 
 ## Purpose
 

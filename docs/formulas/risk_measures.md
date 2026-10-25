@@ -1,4 +1,11 @@
-# `risk_measures`
+---
+title: Value at Risk, Expected Shortfall and CFaR in Python
+description: Compute a quantile, Value at Risk, Expected Shortfall and cash-flow at risk (CFaR) from a sample of simulated outcomes.
+---
+
+# Value at Risk, Expected Shortfall and CFaR in Python
+
+Function: `risk_measures`
 
 ## Purpose
 

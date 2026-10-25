@@ -1,4 +1,11 @@
-# `benford`
+---
+title: Benford's law test in Python
+description: Compare the leading-digit frequencies of a set of amounts with Benford's law and flag deviations worth a review.
+---
+
+# Benford's law test in Python
+
+Function: `benford`
 
 ## Purpose
 

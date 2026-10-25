@@ -1,4 +1,11 @@
-# `markov_payments`
+---
+title: Markov chain model of receivables in Python
+description: Estimate ageing-state transitions of invoices, project collections month by month, and get default probabilities by state.
+---
+
+# Markov chain model of receivables in Python
+
+Function: `markov_payments`
 
 ## Purpose
 

@@ -1,4 +1,11 @@
-# `ledger_audit`
+---
+title: Benford's law audit of FEC accounting entries in Python
+description: Test purchase and expense amounts of a FEC ledger export against Benford's law to find accounts worth a closer look.
+---
+
+# Benford's law audit of FEC accounting entries in Python
+
+Function: `ledger_audit`
 
 ## Purpose
 

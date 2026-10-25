@@ -1,4 +1,11 @@
-# `erlang_c`
+---
+title: Erlang C staffing in Python
+description: Compute the waiting probability and the number of agents needed to serve a queue within a target time.
+---
+
+# Erlang C staffing in Python
+
+Function: `erlang_c`
 
 ## Purpose
 

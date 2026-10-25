@@ -1,0 +1,80 @@
+site_name: smerisk
+site_description: >-
+  smerisk is an open-source Python library for probabilistic management control in SMEs: payroll at risk,
+  cash-flow at risk (CFaR), credibility-weighted rates, fixed-price project risk, receivables risk and Benford audits.
+site_url: https://oussamaelguerraoui.github.io/smerisk/
+repo_url: https://github.com/OussamaELGUERRAOUI/smerisk
+repo_name: OussamaELGUERRAOUI/smerisk
+edit_uri: edit/main/docs/
+copyright: Apache License 2.0
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.highlight
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js
+
+nav:
+  - Home: index.md
+  - Use cases:
+      - Payroll at risk: usecases/payroll_at_risk.md
+      - Cash-flow at risk (CFaR): usecases/cash_at_risk.md
+      - Credible absenteeism and turnover rates: usecases/rate_credibility.md
+      - Receivables risk and expected loss: usecases/receivables_risk.md
+      - Employee attrition: usecases/attrition.md
+      - Benford audit of FEC entries: usecases/ledger_audit.md
+      - Fixed-price project risk: usecases/fixed_price_risk.md
+      - Consulting team utilization: usecases/utilization_forecast.md
+      - Perishable goods orders: usecases/fresh_orders.md
+      - Counter staffing (Erlang C): usecases/counter_staffing.md
+      - Forecast reliability: usecases/forecast_reliability.md
+  - Formulas:
+      - Monte Carlo aggregate simulation: formulas/simulate_aggregate.md
+      - VaR, Expected Shortfall and CFaR: formulas/risk_measures.md
+      - PERT estimate: formulas/pert_estimate.md
+      - Fixed-price project completion: formulas/fixed_price_completion.md
+      - Team utilization forecast: formulas/utilization_forecast.md
+      - Bühlmann-Straub credibility: formulas/credibility.md
+      - Beta-Binomial rate: formulas/beta_binomial.md
+      - Kaplan-Meier survival: formulas/kaplan_meier.md
+      - Markov chain of receivables: formulas/markov_payments.md
+      - Expected credit loss: formulas/expected_loss.md
+      - Benford's law: formulas/benford.md
+      - Newsvendor: formulas/newsvendor.md
+      - Erlang C: formulas/erlang_c.md
+      - Brier score: formulas/brier.md
+      - Kupiec test: formulas/kupiec.md
+  - Reference:
+      - Reference index: reference.md
+      - Raw data contracts: data-contracts.md
+      - Parameter preparation: parameter-preparation.md
+      - HTTP service: service.md

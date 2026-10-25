@@ -1,4 +1,11 @@
-# `receivables_risk`
+---
+title: Receivables risk and expected credit loss in Python
+description: Estimate how much of today's receivables will end unpaid from invoice ageing history, with a Markov chain and expected loss.
+---
+
+# Receivables risk and expected credit loss in Python
+
+Function: `receivables_risk`
 
 ## Purpose
 

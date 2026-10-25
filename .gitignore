@@ -19,6 +19,7 @@ htmlcov/
 *.key
 
 # Generated files
+site/
 openapi.json
 *.log
 

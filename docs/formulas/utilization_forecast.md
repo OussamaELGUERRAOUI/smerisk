@@ -1,4 +1,11 @@
-# `utilization_forecast`
+---
+title: Billable utilization forecast of a consulting team in Python
+description: Simulate monthly billable utilization, bench days and unstaffed deal days from current missions, renewals and open deals.
+---
+
+# Billable utilization forecast of a consulting team in Python
+
+Function: `utilization_forecast`
 
 ## Purpose
 

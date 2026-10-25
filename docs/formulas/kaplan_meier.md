@@ -1,4 +1,11 @@
-# `kaplan_meier`
+---
+title: Kaplan-Meier survival curve in Python
+description: Estimate survival probabilities from right-censored durations, with Greenwood confidence limits and a log-rank test between groups.
+---
+
+# Kaplan-Meier survival curve in Python
+
+Function: `kaplan_meier`
 
 ## Purpose
 

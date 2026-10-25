@@ -1,6 +1,11 @@
-# Raw data contracts
+---
+title: Raw data contracts for payslips, invoices and ledger entries
+description: Generic record formats for payslips, invoices, timesheets and FEC ledger entries, and how invalid records are handled.
+---
 
-**Status:** implemented (`smerisk.contracts`). The use cases that consume these records are not implemented yet.
+# Raw data contracts for payslips, invoices and ledger entries
+
+**Status:** implemented (`smerisk.contracts`). The [use cases](reference.md#use-cases) that consume these records are implemented.
 
 ## Purpose
 

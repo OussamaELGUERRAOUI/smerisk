@@ -1,4 +1,11 @@
-# `utilization_forecast`
+---
+title: Consulting team utilization forecast in Python
+description: Forecast billable utilization, bench days and who is likely without a mission from mission and deal history.
+---
+
+# Consulting team utilization forecast in Python
+
+Function: `utilization_forecast`
 
 ## Purpose
 

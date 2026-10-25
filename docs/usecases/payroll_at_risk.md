@@ -1,4 +1,11 @@
-# `payroll_at_risk`
+---
+title: Payroll at risk in Python
+description: Forecast the payroll cost of the coming months with its uncertainty from payslip history, variable pay and planned hires.
+---
+
+# Payroll at risk in Python
+
+Function: `payroll_at_risk`
 
 ## Purpose
 

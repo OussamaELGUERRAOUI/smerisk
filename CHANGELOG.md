@@ -5,6 +5,12 @@ This project follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) an
 
 ## [Unreleased]
 
+### Added
+
+- Documentation site built with MkDocs Material for GitHub Pages, with page titles and descriptions, a sitemap,
+  and `llms.txt`; `mkdocs build --strict` runs in CI.
+- Project URLs (Homepage, Documentation, Source, Changelog, Issues), keywords, and classifiers in the package metadata.
+
 ## [0.1.0] - 2026-10-25
 
 First release.

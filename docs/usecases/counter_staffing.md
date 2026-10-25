@@ -1,4 +1,11 @@
-# `counter_staffing`
+---
+title: Counter staffing by hour with Erlang C in Python
+description: Compute the agents needed at a counter for each site, weekday and hour from receipts issued, so most customers wait less than a target.
+---
+
+# Counter staffing by hour with Erlang C in Python
+
+Function: `counter_staffing`
 
 ## Purpose
 

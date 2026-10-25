@@ -5,10 +5,24 @@ build-backend = "hatchling.build"
 [project]
 name = "smerisk"
 dynamic = ["version"]
-description = "Probabilistic and statistical calculations for managing small and medium-sized businesses: cash at risk, fixed-price projects, credibility, survival, unpaid receivables, Benford, newsvendor, Erlang C."
+description = "Open-source Python library for probabilistic management control in SMEs: payroll at risk, cash-flow at risk (CFaR), credibility-weighted rates, fixed-price project risk, receivables risk and Benford audits."
 readme = "README.md"
 license = "Apache-2.0"
 license-files = ["LICENSE"]
+keywords = [
+    "payroll at risk",
+    "cash flow at risk",
+    "cfar",
+    "monte carlo",
+    "risk management",
+    "management control",
+    "fp&a",
+    "actuarial",
+    "credibility",
+    "benford",
+    "fec",
+    "sme",
+]
 requires-python = ">=3.11"
 dependencies = [
     "numpy>=2.0",
@@ -19,19 +33,23 @@ classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
     "Intended Audience :: Financial and Insurance Industry",
+    "Intended Audience :: Science/Research",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
     "Programming Language :: Python :: 3.13",
     "Operating System :: OS Independent",
+    "Topic :: Office/Business :: Financial",
+    "Topic :: Office/Business :: Financial :: Accounting",
+    "Topic :: Scientific/Engineering :: Information Analysis",
     "Topic :: Scientific/Engineering :: Mathematics",
     "Typing :: Typed",
 ]
 
 [project.urls]
-Homepage = "https://github.com/OussamaELGUERRAOUI/smerisk"
+Homepage = "https://oussamaelguerraoui.github.io/smerisk/"
 Source = "https://github.com/OussamaELGUERRAOUI/smerisk"
-Documentation = "https://github.com/OussamaELGUERRAOUI/smerisk/tree/main/docs"
+Documentation = "https://oussamaelguerraoui.github.io/smerisk/"
 Changelog = "https://github.com/OussamaELGUERRAOUI/smerisk/blob/main/CHANGELOG.md"
 Issues = "https://github.com/OussamaELGUERRAOUI/smerisk/issues"
 
@@ -44,6 +62,10 @@ dev = [
     "ruff>=0.6",
     "httpx2",
     "smerisk-service",
+]
+docs = [
+    "mkdocs>=1.6,<2",
+    "mkdocs-material>=9.5,<10",
 ]
 
 [tool.hatch.version]

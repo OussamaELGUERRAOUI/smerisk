@@ -1,4 +1,11 @@
-# `newsvendor`
+---
+title: Newsvendor order quantity in Python
+description: Find the quantity to order or produce for one selling period from a demand sample and overage and shortage costs.
+---
+
+# Newsvendor order quantity in Python
+
+Function: `newsvendor`
 
 ## Purpose
 

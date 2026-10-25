@@ -1,4 +1,11 @@
-# `expected_loss`
+---
+title: Expected credit loss of receivables in Python
+description: Compute the expected credit loss of a receivables portfolio by segment, with optional Monte Carlo loss quantiles and Expected Shortfall.
+---
+
+# Expected credit loss of receivables in Python
+
+Function: `expected_loss`
 
 ## Purpose
 

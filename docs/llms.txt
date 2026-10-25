@@ -1,0 +1,52 @@
+# smerisk
+
+> smerisk is an open-source Python library for probabilistic management control in SMEs: payroll at risk, cash-flow at risk (CFaR), credibility-weighted rates, fixed-price project risk, receivables risk and Benford audits. Install with `pip install smerisk`. Apache 2.0, alpha.
+
+## Overview
+
+- [Home](https://oussamaelguerraoui.github.io/smerisk/)
+
+## Use cases
+
+- [Payroll at risk](https://oussamaelguerraoui.github.io/smerisk/usecases/payroll_at_risk/)
+- [Cash-flow at risk (CFaR)](https://oussamaelguerraoui.github.io/smerisk/usecases/cash_at_risk/)
+- [Credible absenteeism and turnover rates](https://oussamaelguerraoui.github.io/smerisk/usecases/rate_credibility/)
+- [Receivables risk and expected loss](https://oussamaelguerraoui.github.io/smerisk/usecases/receivables_risk/)
+- [Employee attrition](https://oussamaelguerraoui.github.io/smerisk/usecases/attrition/)
+- [Benford audit of FEC entries](https://oussamaelguerraoui.github.io/smerisk/usecases/ledger_audit/)
+- [Fixed-price project risk](https://oussamaelguerraoui.github.io/smerisk/usecases/fixed_price_risk/)
+- [Consulting team utilization](https://oussamaelguerraoui.github.io/smerisk/usecases/utilization_forecast/)
+- [Perishable goods orders](https://oussamaelguerraoui.github.io/smerisk/usecases/fresh_orders/)
+- [Counter staffing (Erlang C)](https://oussamaelguerraoui.github.io/smerisk/usecases/counter_staffing/)
+- [Forecast reliability](https://oussamaelguerraoui.github.io/smerisk/usecases/forecast_reliability/)
+
+## Formulas
+
+- [Monte Carlo aggregate simulation](https://oussamaelguerraoui.github.io/smerisk/formulas/simulate_aggregate/)
+- [VaR, Expected Shortfall and CFaR](https://oussamaelguerraoui.github.io/smerisk/formulas/risk_measures/)
+- [PERT estimate](https://oussamaelguerraoui.github.io/smerisk/formulas/pert_estimate/)
+- [Fixed-price project completion](https://oussamaelguerraoui.github.io/smerisk/formulas/fixed_price_completion/)
+- [Team utilization forecast](https://oussamaelguerraoui.github.io/smerisk/formulas/utilization_forecast/)
+- [Bühlmann-Straub credibility](https://oussamaelguerraoui.github.io/smerisk/formulas/credibility/)
+- [Beta-Binomial rate](https://oussamaelguerraoui.github.io/smerisk/formulas/beta_binomial/)
+- [Kaplan-Meier survival](https://oussamaelguerraoui.github.io/smerisk/formulas/kaplan_meier/)
+- [Markov chain of receivables](https://oussamaelguerraoui.github.io/smerisk/formulas/markov_payments/)
+- [Expected credit loss](https://oussamaelguerraoui.github.io/smerisk/formulas/expected_loss/)
+- [Benford's law](https://oussamaelguerraoui.github.io/smerisk/formulas/benford/)
+- [Newsvendor](https://oussamaelguerraoui.github.io/smerisk/formulas/newsvendor/)
+- [Erlang C](https://oussamaelguerraoui.github.io/smerisk/formulas/erlang_c/)
+- [Brier score](https://oussamaelguerraoui.github.io/smerisk/formulas/brier/)
+- [Kupiec test](https://oussamaelguerraoui.github.io/smerisk/formulas/kupiec/)
+
+## Reference
+
+- [Reference index](https://oussamaelguerraoui.github.io/smerisk/reference/)
+- [Raw data contracts](https://oussamaelguerraoui.github.io/smerisk/data-contracts/)
+- [Parameter preparation](https://oussamaelguerraoui.github.io/smerisk/parameter-preparation/)
+- [HTTP service](https://oussamaelguerraoui.github.io/smerisk/service/)
+
+## Optional
+
+- [Source code](https://github.com/OussamaELGUERRAOUI/smerisk)
+- [Changelog](https://github.com/OussamaELGUERRAOUI/smerisk/blob/main/CHANGELOG.md)
+- [PyPI](https://pypi.org/project/smerisk/)
