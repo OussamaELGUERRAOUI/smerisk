@@ -1,0 +1,224 @@
+{
+ "result": {
+  "slots": [
+   {
+    "site_ref": "takeaway",
+    "weekday": 5,
+    "hour": 12,
+    "arrival_rate": 61.5,
+    "irregular": false,
+    "staffing": {
+     "offered_load": 3.075,
+     "agents": 5,
+     "occupancy": 0.615,
+     "p_wait": 0.25512914328597625,
+     "average_wait_seconds": 23.85623157998739,
+     "service_level": 0.9627828431270773,
+     "recommended_agents": 5,
+     "table": [
+      {
+       "agents": 4,
+       "occupancy": 0.76875,
+       "p_wait": 0.5413475060658586,
+       "average_wait_seconds": 105.34329847768059,
+       "service_level": 0.7853387052069968
+      },
+      {
+       "agents": 5,
+       "occupancy": 0.615,
+       "p_wait": 0.25512914328597625,
+       "average_wait_seconds": 23.85623157998739,
+       "service_level": 0.9627828431270773
+      },
+      {
+       "agents": 6,
+       "occupancy": 0.5125000000000001,
+       "p_wait": 0.10911509596363711,
+       "average_wait_seconds": 6.714775136223822,
+       "service_level": 0.9941443719920834
+      },
+      {
+       "agents": 7,
+       "occupancy": 0.43928571428571433,
+       "p_wait": 0.04227630635561595,
+       "average_wait_seconds": 1.9387860239518144,
+       "service_level": 0.9991653753735062
+      }
+     ]
+    }
+   },
+   {
+    "site_ref": "takeaway",
+    "weekday": 5,
+    "hour": 13,
+    "arrival_rate": 49.5,
+    "irregular": false,
+    "staffing": {
+     "offered_load": 2.475,
+     "agents": 4,
+     "occupancy": 0.61875,
+     "p_wait": 0.3114878499778008,
+     "average_wait_seconds": 36.76577901377321,
+     "service_level": 0.9322136848871518,
+     "recommended_agents": 4,
+     "table": [
+      {
+       "agents": 3,
+       "occupancy": 0.8250000000000001,
+       "p_wait": 0.6883310632501917,
+       "average_wait_seconds": 235.99922168578,
+       "service_level": 0.5928140670740356
+      },
+      {
+       "agents": 4,
+       "occupancy": 0.61875,
+       "p_wait": 0.3114878499778008,
+       "average_wait_seconds": 36.76577901377321,
+       "service_level": 0.9322136848871518
+      },
+      {
+       "agents": 5,
+       "occupancy": 0.495,
+       "p_wait": 0.12602245023674002,
+       "average_wait_seconds": 8.983778630737902,
+       "service_level": 0.9899108552607981
+      },
+      {
+       "agents": 6,
+       "occupancy": 0.41250000000000003,
+       "p_wait": 0.045489357946658655,
+       "average_wait_seconds": 2.32286083131874,
+       "service_level": 0.9986602561924106
+      }
+     ]
+    }
+   },
+   {
+    "site_ref": "takeaway",
+    "weekday": 5,
+    "hour": 19,
+    "arrival_rate": 36.5,
+    "irregular": false,
+    "staffing": {
+     "offered_load": 1.825,
+     "agents": 3,
+     "occupancy": 0.6083333333333333,
+     "p_wait": 0.36549381788116797,
+     "average_wait_seconds": 55.99054231371084,
+     "service_level": 0.8871285720796588,
+     "recommended_agents": 3,
+     "table": [
+      {
+       "agents": 2,
+       "occupancy": 0.9125,
+       "p_wait": 0.8707516339869281,
+       "average_wait_seconds": 895.6302521008404,
+       "service_level": 0.2690414275034141
+      },
+      {
+       "agents": 3,
+       "occupancy": 0.6083333333333333,
+       "p_wait": 0.36549381788116797,
+       "average_wait_seconds": 55.99054231371084,
+       "service_level": 0.8871285720796588
+      },
+      {
+       "agents": 4,
+       "occupancy": 0.45625,
+       "p_wait": 0.1337929862503173,
+       "average_wait_seconds": 11.07252300002626,
+       "service_level": 0.9848000258580035
+      },
+      {
+       "agents": 5,
+       "occupancy": 0.365,
+       "p_wait": 0.04263663108712699,
+       "average_wait_seconds": 2.4171948332859396,
+       "service_level": 0.9982180402025143
+      }
+     ]
+    }
+   }
+  ]
+ },
+ "assumptions": {
+  "as_of": "2026-10-20",
+  "seed": null,
+  "service_time_minutes": 3.0,
+  "target_wait_seconds": 180.0,
+  "target_service_level": 0.8,
+  "site_ref": null,
+  "history_weeks": 8,
+  "erlang_c": {
+   "model": "M/M/c",
+   "service_rate_per_hour": 20.0,
+   "target_wait_seconds": 180.0,
+   "target_service_level": 0.8,
+   "erlang_c_computation": "Erlang B recursion"
+  }
+ },
+ "warnings": [],
+ "meta": {
+  "library_version": "0.1.0.dev0",
+  "method": "counter-staffing"
+ },
+ "derived_parameters": {
+  "arrival_rate.takeaway.5.12": {
+   "value": 61.5,
+   "source": "estimated",
+   "method": "mean tickets in the hour over 8 days",
+   "n_points": 8,
+   "first": null,
+   "last": null
+  },
+  "arrival_rate.takeaway.5.13": {
+   "value": 49.5,
+   "source": "estimated",
+   "method": "mean tickets in the hour over 8 days",
+   "n_points": 8,
+   "first": null,
+   "last": null
+  },
+  "arrival_rate.takeaway.5.19": {
+   "value": 36.5,
+   "source": "estimated",
+   "method": "mean tickets in the hour over 8 days",
+   "n_points": 8,
+   "first": null,
+   "last": null
+  }
+ },
+ "data_quality": {
+  "coverage": {
+   "sales": {
+    "first": "2026-08-29",
+    "last": "2026-10-17"
+   }
+  },
+  "missing_periods": {},
+  "outliers": [],
+  "requirements": [
+   {
+    "parameter": "arrival_rate.takeaway.5.12",
+    "minimum": 4,
+    "found": 8,
+    "met": true
+   },
+   {
+    "parameter": "arrival_rate.takeaway.5.13",
+    "minimum": 4,
+    "found": 8,
+    "met": true
+   },
+   {
+    "parameter": "arrival_rate.takeaway.5.19",
+    "minimum": 4,
+    "found": 8,
+    "met": true
+   }
+  ],
+  "ignored_records": [],
+  "ignored_counts": {},
+  "usable": true
+ }
+}

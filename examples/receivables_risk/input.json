@@ -1,0 +1,997 @@
+{
+ "invoices": [
+  {
+   "invoice_ref": "F000",
+   "customer_ref": "C0",
+   "issue_date": "2024-11-04",
+   "due_date": "2024-12-04",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2024-12-04",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F001",
+   "customer_ref": "C1",
+   "issue_date": "2024-11-13",
+   "due_date": "2024-12-13",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2024-12-13",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F002",
+   "customer_ref": "C2",
+   "issue_date": "2024-11-22",
+   "due_date": "2024-12-22",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2024-12-22",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F003",
+   "customer_ref": "C3",
+   "issue_date": "2024-12-01",
+   "due_date": "2024-12-31",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-01-12",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F004",
+   "customer_ref": "C4",
+   "issue_date": "2024-12-10",
+   "due_date": "2025-01-09",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-01-09",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F005",
+   "customer_ref": "C0",
+   "issue_date": "2024-12-19",
+   "due_date": "2025-01-18",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-02-22",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F006",
+   "customer_ref": "C1",
+   "issue_date": "2024-12-28",
+   "due_date": "2025-01-27",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-01-27",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F007",
+   "customer_ref": "C2",
+   "issue_date": "2025-01-06",
+   "due_date": "2025-02-05",
+   "amount": 2400.0,
+   "written_off_date": "2025-07-05"
+  },
+  {
+   "invoice_ref": "F008",
+   "customer_ref": "C3",
+   "issue_date": "2025-01-15",
+   "due_date": "2025-02-14",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-02-14",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F009",
+   "customer_ref": "C4",
+   "issue_date": "2025-01-24",
+   "due_date": "2025-02-23",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-02-23",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F010",
+   "customer_ref": "C0",
+   "issue_date": "2025-02-02",
+   "due_date": "2025-03-04",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-03-04",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F011",
+   "customer_ref": "C1",
+   "issue_date": "2025-02-11",
+   "due_date": "2025-03-13",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-03-25",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F012",
+   "customer_ref": "C2",
+   "issue_date": "2025-02-20",
+   "due_date": "2025-03-22",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-03-22",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F013",
+   "customer_ref": "C3",
+   "issue_date": "2025-03-01",
+   "due_date": "2025-03-31",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-05-05",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F014",
+   "customer_ref": "C4",
+   "issue_date": "2025-03-10",
+   "due_date": "2025-04-09",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-04-09",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F015",
+   "customer_ref": "C0",
+   "issue_date": "2025-03-19",
+   "due_date": "2025-04-18",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-06-27",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F016",
+   "customer_ref": "C1",
+   "issue_date": "2025-03-28",
+   "due_date": "2025-04-27",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-04-27",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F017",
+   "customer_ref": "C2",
+   "issue_date": "2025-04-06",
+   "due_date": "2025-05-06",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-05-06",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F018",
+   "customer_ref": "C3",
+   "issue_date": "2025-04-15",
+   "due_date": "2025-05-15",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-05-15",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F019",
+   "customer_ref": "C4",
+   "issue_date": "2025-04-24",
+   "due_date": "2025-05-24",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-06-05",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F020",
+   "customer_ref": "C0",
+   "issue_date": "2025-05-03",
+   "due_date": "2025-06-02",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-06-02",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F021",
+   "customer_ref": "C1",
+   "issue_date": "2025-05-12",
+   "due_date": "2025-06-11",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-07-16",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F022",
+   "customer_ref": "C2",
+   "issue_date": "2025-05-21",
+   "due_date": "2025-06-20",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-06-20",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F023",
+   "customer_ref": "C3",
+   "issue_date": "2025-05-30",
+   "due_date": "2025-06-29",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-09-07",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F024",
+   "customer_ref": "C4",
+   "issue_date": "2025-06-08",
+   "due_date": "2025-07-08",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-07-08",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F025",
+   "customer_ref": "C0",
+   "issue_date": "2025-06-17",
+   "due_date": "2025-07-17",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-07-17",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F026",
+   "customer_ref": "C1",
+   "issue_date": "2025-06-26",
+   "due_date": "2025-07-26",
+   "amount": 2400.0,
+   "written_off_date": "2025-12-23"
+  },
+  {
+   "invoice_ref": "F027",
+   "customer_ref": "C2",
+   "issue_date": "2025-07-05",
+   "due_date": "2025-08-04",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-08-16",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F028",
+   "customer_ref": "C3",
+   "issue_date": "2025-07-14",
+   "due_date": "2025-08-13",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-08-13",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F029",
+   "customer_ref": "C4",
+   "issue_date": "2025-07-23",
+   "due_date": "2025-08-22",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-09-26",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F030",
+   "customer_ref": "C0",
+   "issue_date": "2025-08-01",
+   "due_date": "2025-08-31",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-08-31",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F031",
+   "customer_ref": "C1",
+   "issue_date": "2025-08-10",
+   "due_date": "2025-09-09",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-11-18",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F032",
+   "customer_ref": "C2",
+   "issue_date": "2025-08-19",
+   "due_date": "2025-09-18",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-09-18",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F033",
+   "customer_ref": "C3",
+   "issue_date": "2025-08-28",
+   "due_date": "2025-09-27",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-09-27",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F034",
+   "customer_ref": "C4",
+   "issue_date": "2025-09-06",
+   "due_date": "2025-10-06",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-10-06",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F035",
+   "customer_ref": "C0",
+   "issue_date": "2025-09-15",
+   "due_date": "2025-10-15",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-10-27",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F036",
+   "customer_ref": "C1",
+   "issue_date": "2025-09-24",
+   "due_date": "2025-10-24",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-10-24",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F037",
+   "customer_ref": "C2",
+   "issue_date": "2025-10-03",
+   "due_date": "2025-11-02",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-12-07",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F038",
+   "customer_ref": "C3",
+   "issue_date": "2025-10-12",
+   "due_date": "2025-11-11",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-11-11",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F039",
+   "customer_ref": "C4",
+   "issue_date": "2025-10-21",
+   "due_date": "2025-11-20",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-01-29",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F040",
+   "customer_ref": "C0",
+   "issue_date": "2025-10-30",
+   "due_date": "2025-11-29",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-11-29",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F041",
+   "customer_ref": "C1",
+   "issue_date": "2025-11-08",
+   "due_date": "2025-12-08",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-12-08",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F042",
+   "customer_ref": "C2",
+   "issue_date": "2025-11-17",
+   "due_date": "2025-12-17",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2025-12-17",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F043",
+   "customer_ref": "C3",
+   "issue_date": "2025-11-26",
+   "due_date": "2025-12-26",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-01-07",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F044",
+   "customer_ref": "C4",
+   "issue_date": "2025-12-05",
+   "due_date": "2026-01-04",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-01-04",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F045",
+   "customer_ref": "C0",
+   "issue_date": "2025-12-14",
+   "due_date": "2026-01-13",
+   "amount": 2400.0,
+   "written_off_date": "2026-06-12"
+  },
+  {
+   "invoice_ref": "F046",
+   "customer_ref": "C1",
+   "issue_date": "2025-12-23",
+   "due_date": "2026-01-22",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-01-22",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F047",
+   "customer_ref": "C2",
+   "issue_date": "2026-01-01",
+   "due_date": "2026-01-31",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-04-11",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F048",
+   "customer_ref": "C3",
+   "issue_date": "2026-01-10",
+   "due_date": "2026-02-09",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-02-09",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F049",
+   "customer_ref": "C4",
+   "issue_date": "2026-01-19",
+   "due_date": "2026-02-18",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-02-18",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F050",
+   "customer_ref": "C0",
+   "issue_date": "2026-01-28",
+   "due_date": "2026-02-27",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-02-27",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F051",
+   "customer_ref": "C1",
+   "issue_date": "2026-02-06",
+   "due_date": "2026-03-08",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-03-20",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F052",
+   "customer_ref": "C2",
+   "issue_date": "2026-02-15",
+   "due_date": "2026-03-17",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-03-17",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F053",
+   "customer_ref": "C3",
+   "issue_date": "2026-02-24",
+   "due_date": "2026-03-26",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-04-30",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F054",
+   "customer_ref": "C4",
+   "issue_date": "2026-03-05",
+   "due_date": "2026-04-04",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-04-04",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F055",
+   "customer_ref": "C0",
+   "issue_date": "2026-03-14",
+   "due_date": "2026-04-13",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-06-22",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F056",
+   "customer_ref": "C1",
+   "issue_date": "2026-03-23",
+   "due_date": "2026-04-22",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-04-22",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F057",
+   "customer_ref": "C2",
+   "issue_date": "2026-04-01",
+   "due_date": "2026-05-01",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-05-01",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F058",
+   "customer_ref": "C3",
+   "issue_date": "2026-04-10",
+   "due_date": "2026-05-10",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-05-10",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F059",
+   "customer_ref": "C4",
+   "issue_date": "2026-04-19",
+   "due_date": "2026-05-19",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-05-31",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F060",
+   "customer_ref": "C0",
+   "issue_date": "2026-04-28",
+   "due_date": "2026-05-28",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-05-28",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F061",
+   "customer_ref": "C1",
+   "issue_date": "2026-05-07",
+   "due_date": "2026-06-06",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-07-11",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F062",
+   "customer_ref": "C2",
+   "issue_date": "2026-05-16",
+   "due_date": "2026-06-15",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-06-15",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F063",
+   "customer_ref": "C3",
+   "issue_date": "2026-05-25",
+   "due_date": "2026-06-24",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-09-02",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F064",
+   "customer_ref": "C4",
+   "issue_date": "2026-06-03",
+   "due_date": "2026-07-03",
+   "amount": 2400.0,
+   "written_off_date": "2026-11-30"
+  },
+  {
+   "invoice_ref": "F065",
+   "customer_ref": "C0",
+   "issue_date": "2026-06-12",
+   "due_date": "2026-07-12",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-07-12",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F066",
+   "customer_ref": "C1",
+   "issue_date": "2026-06-21",
+   "due_date": "2026-07-21",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-07-21",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F067",
+   "customer_ref": "C2",
+   "issue_date": "2026-06-30",
+   "due_date": "2026-07-30",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-08-11",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F068",
+   "customer_ref": "C3",
+   "issue_date": "2026-07-09",
+   "due_date": "2026-08-08",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-08-08",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F069",
+   "customer_ref": "C4",
+   "issue_date": "2026-07-18",
+   "due_date": "2026-08-17",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-09-21",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F070",
+   "customer_ref": "C0",
+   "issue_date": "2026-07-27",
+   "due_date": "2026-08-26",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-08-26",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F071",
+   "customer_ref": "C1",
+   "issue_date": "2026-08-05",
+   "due_date": "2026-09-04",
+   "amount": 2400.0
+  },
+  {
+   "invoice_ref": "F072",
+   "customer_ref": "C2",
+   "issue_date": "2026-08-14",
+   "due_date": "2026-09-13",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-09-13",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F073",
+   "customer_ref": "C3",
+   "issue_date": "2026-08-23",
+   "due_date": "2026-09-22",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-09-22",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F074",
+   "customer_ref": "C4",
+   "issue_date": "2026-09-01",
+   "due_date": "2026-10-01",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-10-01",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F075",
+   "customer_ref": "C0",
+   "issue_date": "2026-09-10",
+   "due_date": "2026-10-10",
+   "amount": 2400.0
+  },
+  {
+   "invoice_ref": "F076",
+   "customer_ref": "C1",
+   "issue_date": "2026-09-19",
+   "due_date": "2026-10-19",
+   "amount": 2400.0,
+   "payments": [
+    {
+     "date": "2026-10-19",
+     "amount": 2400.0
+    }
+   ]
+  },
+  {
+   "invoice_ref": "F077",
+   "customer_ref": "C2",
+   "issue_date": "2026-09-28",
+   "due_date": "2026-10-28",
+   "amount": 2400.0
+  },
+  {
+   "invoice_ref": "F078",
+   "customer_ref": "C3",
+   "issue_date": "2026-10-07",
+   "due_date": "2026-11-06",
+   "amount": 2400.0
+  },
+  {
+   "invoice_ref": "F079",
+   "customer_ref": "C4",
+   "issue_date": "2026-10-16",
+   "due_date": "2026-11-15",
+   "amount": 2400.0
+  }
+ ],
+ "settings": {
+  "as_of": "2026-10-20"
+ }
+}

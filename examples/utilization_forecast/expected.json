@@ -1,0 +1,335 @@
+{
+ "result": {
+  "by_period": [
+   {
+    "period": "2026-11",
+    "utilization_quantiles": {
+     "0.05": 0.571429,
+     "0.1": 0.571429,
+     "0.5": 0.571429,
+     "0.9": 0.571429,
+     "0.95": 0.571429
+    },
+    "bench_days_quantiles": {
+     "0.05": 21.0,
+     "0.1": 21.0,
+     "0.5": 21.0,
+     "0.9": 21.0,
+     "0.95": 21.0
+    },
+    "p_utilization_below": null
+   },
+   {
+    "period": "2026-12",
+    "utilization_quantiles": {
+     "0.05": 0.26087,
+     "0.1": 0.26087,
+     "0.5": 0.521739,
+     "0.9": 0.521739,
+     "0.95": 0.521739
+    },
+    "bench_days_quantiles": {
+     "0.05": 23.0,
+     "0.1": 23.0,
+     "0.5": 23.0,
+     "0.9": 46.0,
+     "0.95": 46.0
+    },
+    "p_utilization_below": null
+   },
+   {
+    "period": "2027-01",
+    "utilization_quantiles": {
+     "0.05": 0.0,
+     "0.1": 0.285714,
+     "0.5": 0.571429,
+     "0.9": 0.571429,
+     "0.95": 0.571429
+    },
+    "bench_days_quantiles": {
+     "0.05": 21.0,
+     "0.1": 21.0,
+     "0.5": 21.0,
+     "0.9": 42.0,
+     "0.95": 63.0
+    },
+    "p_utilization_below": null
+   },
+   {
+    "period": "2027-02",
+    "utilization_quantiles": {
+     "0.05": 0.0,
+     "0.1": 0.3,
+     "0.5": 0.6,
+     "0.9": 0.6,
+     "0.95": 0.6
+    },
+    "bench_days_quantiles": {
+     "0.05": 20.0,
+     "0.1": 20.0,
+     "0.5": 20.0,
+     "0.9": 40.0,
+     "0.95": 60.0
+    },
+    "p_utilization_below": null
+   },
+   {
+    "period": "2027-03",
+    "utilization_quantiles": {
+     "0.05": 0.0,
+     "0.1": 0.0,
+     "0.5": 0.26087,
+     "0.9": 0.26087,
+     "0.95": 0.521739
+    },
+    "bench_days_quantiles": {
+     "0.05": 23.0,
+     "0.1": 46.0,
+     "0.5": 46.0,
+     "0.9": 69.0,
+     "0.95": 69.0
+    },
+    "p_utilization_below": null
+   },
+   {
+    "period": "2027-04",
+    "utilization_quantiles": {
+     "0.05": 0.0,
+     "0.1": 0.0,
+     "0.5": 0.0,
+     "0.9": 0.0,
+     "0.95": 0.272727
+    },
+    "bench_days_quantiles": {
+     "0.05": 44.0,
+     "0.1": 66.0,
+     "0.5": 66.0,
+     "0.9": 66.0,
+     "0.95": 66.0
+    },
+    "p_utilization_below": null
+   }
+  ],
+  "consultants": [
+   {
+    "id": "k1",
+    "p_on_bench": {
+     "2026-11": 0.0,
+     "2026-12": 0.2782,
+     "2027-01": 0.2782,
+     "2027-02": 0.2782,
+     "2027-03": 1.0,
+     "2027-04": 1.0
+    }
+   },
+   {
+    "id": "k2",
+    "p_on_bench": {
+     "2026-11": 0.0,
+     "2026-12": 0.0,
+     "2027-01": 0.3396,
+     "2027-02": 0.3396,
+     "2027-03": 0.3396,
+     "2027-04": 1.0
+    }
+   },
+   {
+    "id": "k3",
+    "p_on_bench": {
+     "2026-11": 1.0,
+     "2026-12": 1.0,
+     "2027-01": 0.903,
+     "2027-02": 0.903,
+     "2027-03": 0.903,
+     "2027-04": 0.903
+    }
+   }
+  ],
+  "unstaffed_deal_days": {
+   "expected": 0.0,
+   "quantiles": {
+    "0.05": 0.0,
+    "0.1": 0.0,
+    "0.5": 0.0,
+    "0.9": 0.0,
+    "0.95": 0.0
+   }
+  }
+ },
+ "assumptions": {
+  "as_of": "2026-10-20",
+  "seed": 3,
+  "n_simulations": 5000,
+  "confidence": 0.95,
+  "quantiles": [
+   0.05,
+   0.1,
+   0.5,
+   0.9,
+   0.95
+  ],
+  "horizon": 6,
+  "utilization_threshold": null,
+  "renewal_prior": {
+   "mean": 0.6,
+   "strength": 5.0
+  },
+  "stages": null,
+  "staffing_rule": "deals by start month then input order; consultants free longest first",
+  "skills": "any free consultant can staff any deal",
+  "unfilled_seats": "stay open and can be filled in a later month",
+  "month_rounding": "drawn durations and start indices rounded to the nearest month, durations at least 1",
+  "random_streams": "one per consultant and one per deal",
+  "random_generator": "PCG64",
+  "quantile_method": "linear",
+  "periods": [
+   "2026-11",
+   "2026-12",
+   "2027-01",
+   "2027-02",
+   "2027-03",
+   "2027-04"
+  ],
+  "deal_start": "expected start, not before the first month"
+ },
+ "warnings": [],
+ "meta": {
+  "library_version": "0.1.0.dev0",
+  "method": "utilization-forecast"
+ },
+ "derived_parameters": {
+  "billable_days_per_period": {
+   "value": 18.0,
+   "source": "estimated",
+   "method": "mean billable days per consultant-month over the last 6 months",
+   "n_points": 5,
+   "first": "2026-05",
+   "last": "2026-09"
+  },
+  "renewal_duration_months": {
+   "value": {
+    "type": "fixed",
+    "value": 3.0
+   },
+   "source": "default",
+   "method": "fewer than 5 past renewals",
+   "n_points": 0,
+   "first": null,
+   "last": null
+  },
+  "consultants.k1.available_days": {
+   "value": {
+    "2026-11": 21.0,
+    "2026-12": 23.0,
+    "2027-01": 21.0,
+    "2027-02": 20.0,
+    "2027-03": 23.0,
+    "2027-04": 22.0
+   },
+   "source": "estimated",
+   "method": "working days minus planned leave",
+   "n_points": 0,
+   "first": null,
+   "last": null
+  },
+  "consultants.k1.renewal_probability_beta": {
+   "value": {
+    "alpha": 4.333333333333333,
+    "beta": 1.666666666666667
+   },
+   "source": "estimated",
+   "method": "beta-binomial, prior = company-wide rate with strength 5, fewer than 5 missions ended",
+   "n_points": 1,
+   "first": "2025-06-30",
+   "last": "2025-06-30"
+  },
+  "consultants.k1.billable_days_per_period": {
+   "value": 18.0,
+   "source": "estimated",
+   "method": "timesheets of the mission",
+   "n_points": 5,
+   "first": null,
+   "last": null
+  },
+  "consultants.k2.available_days": {
+   "value": {
+    "2026-11": 21.0,
+    "2026-12": 23.0,
+    "2027-01": 21.0,
+    "2027-02": 20.0,
+    "2027-03": 23.0,
+    "2027-04": 22.0
+   },
+   "source": "estimated",
+   "method": "working days minus planned leave",
+   "n_points": 0,
+   "first": null,
+   "last": null
+  },
+  "consultants.k2.renewal_probability_beta": {
+   "value": {
+    "alpha": 4.0,
+    "beta": 2.0
+   },
+   "source": "estimated",
+   "method": "beta-binomial, prior mean 0.6 with strength 5",
+   "n_points": 1,
+   "first": "2025-06-30",
+   "last": "2025-06-30"
+  },
+  "consultants.k3.available_days": {
+   "value": {
+    "2026-11": 21.0,
+    "2026-12": 23.0,
+    "2027-01": 21.0,
+    "2027-02": 20.0,
+    "2027-03": 23.0,
+    "2027-04": 22.0
+   },
+   "source": "estimated",
+   "method": "working days minus planned leave",
+   "n_points": 0,
+   "first": null,
+   "last": null
+  },
+  "deals.d1.win_probability": {
+   "value": 0.1,
+   "source": "estimated",
+   "method": "beta-binomial, prior 10% for stage 1 of 1, strength 4",
+   "n_points": 0,
+   "first": null,
+   "last": null
+  }
+ },
+ "data_quality": {
+  "coverage": {
+   "missions": {
+    "first": "2025-01-06",
+    "last": "2025-09-01"
+   },
+   "timesheets": {
+    "first": "2026-05",
+    "last": "2026-09"
+   }
+  },
+  "missing_periods": {},
+  "outliers": [],
+  "requirements": [
+   {
+    "parameter": "missions.ended",
+    "minimum": 10,
+    "found": 1,
+    "met": false
+   },
+   {
+    "parameter": "deals.open_with_start_and_duration",
+    "minimum": 1,
+    "found": 1,
+    "met": true
+   }
+  ],
+  "ignored_records": [],
+  "ignored_counts": {},
+  "usable": false
+ }
+}

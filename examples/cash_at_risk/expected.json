@@ -1,0 +1,437 @@
+{
+ "result": {
+  "by_period": [
+   {
+    "period": "2026-W43",
+    "flow_quantiles": {
+     "0.05": 0.0,
+     "0.1": 0.0,
+     "0.5": 0.0,
+     "0.9": 0.0,
+     "0.95": 0.0
+    },
+    "cumulative_quantiles": {
+     "0.05": 15000.0,
+     "0.1": 15000.0,
+     "0.5": 15000.0,
+     "0.9": 15000.0,
+     "0.95": 15000.0
+    },
+    "expected_flow": 0.0,
+    "expected_cumulative": 15000.0,
+    "p_below_threshold": 0.0
+   },
+   {
+    "period": "2026-W44",
+    "flow_quantiles": {
+     "0.05": -18000.0,
+     "0.1": -18000.0,
+     "0.5": -6000.0,
+     "0.9": -6000.0,
+     "0.95": -6000.0
+    },
+    "cumulative_quantiles": {
+     "0.05": -3000.0,
+     "0.1": -3000.0,
+     "0.5": 9000.0,
+     "0.9": 9000.0,
+     "0.95": 9000.0
+    },
+    "expected_flow": -10537.2,
+    "expected_cumulative": 4462.8,
+    "p_below_threshold": 0.378
+   },
+   {
+    "period": "2026-W45",
+    "flow_quantiles": {
+     "0.05": 9000.0,
+     "0.1": 9000.0,
+     "0.5": 18000.0,
+     "0.9": 18000.0,
+     "0.95": 18000.0
+    },
+    "cumulative_quantiles": {
+     "0.05": 6000.0,
+     "0.1": 6000.0,
+     "0.5": 27000.0,
+     "0.9": 27000.0,
+     "0.95": 27000.0
+    },
+    "expected_flow": 15994.8,
+    "expected_cumulative": 20457.6,
+    "p_below_threshold": 0.0
+   },
+   {
+    "period": "2026-W46",
+    "flow_quantiles": {
+     "0.05": -4500.0,
+     "0.1": -4500.0,
+     "0.5": -4500.0,
+     "0.9": -4500.0,
+     "0.95": -4500.0
+    },
+    "cumulative_quantiles": {
+     "0.05": 1500.0,
+     "0.1": 1500.0,
+     "0.5": 22500.0,
+     "0.9": 22500.0,
+     "0.95": 22500.0
+    },
+    "expected_flow": -4513.8,
+    "expected_cumulative": 15943.8,
+    "p_below_threshold": 0.002
+   },
+   {
+    "period": "2026-W47",
+    "flow_quantiles": {
+     "0.05": 0.0,
+     "0.1": 0.0,
+     "0.5": 0.0,
+     "0.9": 0.0,
+     "0.95": 0.0
+    },
+    "cumulative_quantiles": {
+     "0.05": 1500.0,
+     "0.1": 1500.0,
+     "0.5": 22500.0,
+     "0.9": 22500.0,
+     "0.95": 22500.0
+    },
+    "expected_flow": 0.0,
+    "expected_cumulative": 15943.8,
+    "p_below_threshold": 0.002
+   },
+   {
+    "period": "2026-W48",
+    "flow_quantiles": {
+     "0.05": 0.0,
+     "0.1": 0.0,
+     "0.5": 0.0,
+     "0.9": 0.0,
+     "0.95": 0.0
+    },
+    "cumulative_quantiles": {
+     "0.05": 1500.0,
+     "0.1": 1500.0,
+     "0.5": 22500.0,
+     "0.9": 22500.0,
+     "0.95": 22500.0
+    },
+    "expected_flow": 0.0,
+    "expected_cumulative": 15943.8,
+    "p_below_threshold": 0.002
+   },
+   {
+    "period": "2026-W49",
+    "flow_quantiles": {
+     "0.05": -21000.0,
+     "0.1": -21000.0,
+     "0.5": -21000.0,
+     "0.9": -21000.0,
+     "0.95": -21000.0
+    },
+    "cumulative_quantiles": {
+     "0.05": -19500.0,
+     "0.1": -19500.0,
+     "0.5": 1500.0,
+     "0.9": 1500.0,
+     "0.95": 1500.0
+    },
+    "expected_flow": -21000.0,
+    "expected_cumulative": -5056.2,
+    "p_below_threshold": 0.4704
+   },
+   {
+    "period": "2026-W50",
+    "flow_quantiles": {
+     "0.05": 0.0,
+     "0.1": 0.0,
+     "0.5": 0.0,
+     "0.9": 0.0,
+     "0.95": 0.0
+    },
+    "cumulative_quantiles": {
+     "0.05": -19500.0,
+     "0.1": -19500.0,
+     "0.5": 1500.0,
+     "0.9": 1500.0,
+     "0.95": 1500.0
+    },
+    "expected_flow": 0.0,
+    "expected_cumulative": -5056.2,
+    "p_below_threshold": 0.4704
+   },
+   {
+    "period": "2026-W51",
+    "flow_quantiles": {
+     "0.05": 0.0,
+     "0.1": 0.0,
+     "0.5": 0.0,
+     "0.9": 21000.0,
+     "0.95": 21000.0
+    },
+    "cumulative_quantiles": {
+     "0.05": 1500.0,
+     "0.1": 1500.0,
+     "0.5": 1500.0,
+     "0.9": 1500.0,
+     "0.95": 1500.0
+    },
+    "expected_flow": 6169.8,
+    "expected_cumulative": 1113.6,
+    "p_below_threshold": 0.04
+   },
+   {
+    "period": "2026-W52",
+    "flow_quantiles": {
+     "0.05": 0.0,
+     "0.1": 0.0,
+     "0.5": 0.0,
+     "0.9": 0.0,
+     "0.95": 0.0
+    },
+    "cumulative_quantiles": {
+     "0.05": 1500.0,
+     "0.1": 1500.0,
+     "0.5": 1500.0,
+     "0.9": 1500.0,
+     "0.95": 1500.0
+    },
+    "expected_flow": 0.0,
+    "expected_cumulative": 1113.6,
+    "p_below_threshold": 0.04
+   },
+   {
+    "period": "2026-W53",
+    "flow_quantiles": {
+     "0.05": 0.0,
+     "0.1": 0.0,
+     "0.5": 0.0,
+     "0.9": 0.0,
+     "0.95": 0.0
+    },
+    "cumulative_quantiles": {
+     "0.05": 1500.0,
+     "0.1": 1500.0,
+     "0.5": 1500.0,
+     "0.9": 1500.0,
+     "0.95": 1500.0
+    },
+    "expected_flow": 0.0,
+    "expected_cumulative": 1113.6,
+    "p_below_threshold": 0.04
+   },
+   {
+    "period": "2027-W01",
+    "flow_quantiles": {
+     "0.05": 0.0,
+     "0.1": 0.0,
+     "0.5": 0.0,
+     "0.9": 0.0,
+     "0.95": 0.0
+    },
+    "cumulative_quantiles": {
+     "0.05": 1500.0,
+     "0.1": 1500.0,
+     "0.5": 1500.0,
+     "0.9": 1500.0,
+     "0.95": 1500.0
+    },
+    "expected_flow": 0.0,
+    "expected_cumulative": 1113.6,
+    "p_below_threshold": 0.04
+   },
+   {
+    "period": "2027-W02",
+    "flow_quantiles": {
+     "0.05": 0.0,
+     "0.1": 0.0,
+     "0.5": 0.0,
+     "0.9": 0.0,
+     "0.95": 0.0
+    },
+    "cumulative_quantiles": {
+     "0.05": 1500.0,
+     "0.1": 1500.0,
+     "0.5": 1500.0,
+     "0.9": 1500.0,
+     "0.95": 1500.0
+    },
+    "expected_flow": 0.0,
+    "expected_cumulative": 1113.6,
+    "p_below_threshold": 0.04
+   }
+  ],
+  "horizon": {
+   "cfar": -386.4,
+   "expected_shortfall": 1113.6,
+   "p_ever_below_threshold": 0.4704
+  },
+  "contributions": [
+   {
+    "id": "scheduled_flows",
+    "share": 0.0
+   },
+   {
+    "id": "receipts.C0.2026-W44.2026-W51",
+    "share": 0.0
+   },
+   {
+    "id": "receipts.C0.2026-W44.2026-W51.late",
+    "share": 0.647347
+   },
+   {
+    "id": "receipts.C1.2026-W45.2026-W51",
+    "share": 0.0
+   },
+   {
+    "id": "receipts.C1.2026-W45.2026-W51.late",
+    "share": 0.305446
+   },
+   {
+    "id": "receipts.C2.2026-W45",
+    "share": 0.026835
+   },
+   {
+    "id": "receipts.C1.2026-W44",
+    "share": 0.00247
+   },
+   {
+    "id": "receipts.C0.2026-W45",
+    "share": 0.008423
+   },
+   {
+    "id": "receipts.C3.2026-W46",
+    "share": 0.009478
+   }
+  ]
+ },
+ "assumptions": {
+  "as_of": "2026-10-20",
+  "seed": 5,
+  "n_simulations": 5000,
+  "confidence": 0.95,
+  "quantiles": [
+   0.05,
+   0.1,
+   0.5,
+   0.9,
+   0.95
+  ],
+  "horizon": 13,
+  "threshold": 0.0,
+  "history_months": 12,
+  "sector_correlation": 0.4,
+  "payment_terms_days": 30,
+  "orientation": "higher_is_better",
+  "opening_balance": 15000.0,
+  "copula": "gaussian",
+  "random_streams": "one per ungrouped component and one per correlation group",
+  "random_generator": "PCG64",
+  "quantile_method": "linear",
+  "opening_balance_date": "2026-10-20",
+  "weeks": [
+   "2026-W43",
+   "2027-W02"
+  ],
+  "receipts": "open invoices: on time, late after the median delay, or not within the horizon; one draw per group of invoices for the whole horizon",
+  "pooled_receipts": "smaller customers beyond the component limit, by week, single outcome",
+  "replaced_by_scheduled_flows": [
+   "payroll",
+   "tax"
+  ],
+  "correlated_receipts": {
+   "retail": 4,
+   "industry": 2
+  },
+  "categories": {
+   "401": "suppliers",
+   "421": "payroll",
+   "43": "social",
+   "44": "tax",
+   "16": "loans",
+   "other": "other accounts"
+  }
+ },
+ "warnings": [],
+ "meta": {
+  "library_version": "0.1.0.dev0",
+  "method": "cash-at-risk"
+ },
+ "derived_parameters": {
+  "receipts.on_time_probability": {
+   "value": 0.6885245901639344,
+   "source": "estimated",
+   "method": "observed share",
+   "n_points": 61,
+   "first": "2026-02-04",
+   "last": "2026-09-28"
+  },
+  "receipts.on_time_probability.C0": {
+   "value": 0.6221311475409836,
+   "source": "estimated",
+   "method": "beta-binomial, prior = company-wide rate with strength 5",
+   "n_points": 15,
+   "first": "2026-02-04",
+   "last": "2026-09-28"
+  },
+  "receipts.on_time_probability.C1": {
+   "value": 0.7721311475409836,
+   "source": "estimated",
+   "method": "beta-binomial, prior = company-wide rate with strength 5",
+   "n_points": 15,
+   "first": "2026-02-04",
+   "last": "2026-09-28"
+  },
+  "receipts.on_time_probability.C2": {
+   "value": 0.5925058548009368,
+   "source": "estimated",
+   "method": "beta-binomial, prior = company-wide rate with strength 5",
+   "n_points": 16,
+   "first": "2026-02-04",
+   "last": "2026-09-28"
+  },
+  "receipts.on_time_probability.C3": {
+   "value": 0.7721311475409836,
+   "source": "estimated",
+   "method": "beta-binomial, prior = company-wide rate with strength 5",
+   "n_points": 15,
+   "first": "2026-02-04",
+   "last": "2026-09-28"
+  },
+  "receipts.late_delay_days": {
+   "value": {
+    "type": "lognormal",
+    "median": 45.0,
+    "p90": 70.0
+   },
+   "source": "estimated",
+   "method": "lognormal: observed median and 90th percentile of days late",
+   "n_points": 15,
+   "first": null,
+   "last": null
+  }
+ },
+ "data_quality": {
+  "coverage": {
+   "bank_balances": {
+    "first": "2026-10-20",
+    "last": "2026-10-20"
+   },
+   "scheduled_flows": {
+    "first": "2026-10-30",
+    "last": "2026-11-30"
+   },
+   "invoices": {
+    "first": "2026-01-05",
+    "last": "2026-10-05"
+   }
+  },
+  "missing_periods": {},
+  "outliers": [],
+  "requirements": [],
+  "ignored_records": [],
+  "ignored_counts": {},
+  "usable": true
+ }
+}

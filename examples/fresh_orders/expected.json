@@ -1,0 +1,154 @@
+{
+ "result": {
+  "orders": [
+   {
+    "product_ref": "quiche",
+    "weekday": 0,
+    "order": {
+     "critical_ratio": 0.7166666666666667,
+     "optimal_quantity": 47,
+     "expected_sales": 42.75,
+     "expected_leftover": 4.25,
+     "expected_shortage": 1.0833333333333357,
+     "expected_profit": 176.6,
+     "comparison": {
+      "quantity": 50.0,
+      "expected_sales": 43.333333333333336,
+      "expected_leftover": 6.666666666666664,
+      "expected_shortage": 0.5,
+      "expected_profit": 175.0
+     }
+    }
+   },
+   {
+    "product_ref": "tart",
+    "weekday": 0,
+    "order": {
+     "critical_ratio": 0.6111111111111112,
+     "optimal_quantity": 12,
+     "expected_sales": 10.666666666666666,
+     "expected_leftover": 1.333333333333334,
+     "expected_shortage": 0.5,
+     "expected_profit": 108.0,
+     "comparison": null
+    }
+   }
+  ]
+ },
+ "assumptions": {
+  "as_of": "2026-10-20",
+  "seed": null,
+  "weekday": 0,
+  "site_ref": null,
+  "history_weeks": 12,
+  "salvage_value": "products.salvage_value, otherwise 0",
+  "shortage_penalty": 0,
+  "demand": "sales of the same weekday; a sold-out day understates the demand"
+ },
+ "warnings": [],
+ "meta": {
+  "library_version": "0.1.0.dev0",
+  "method": "fresh-orders"
+ },
+ "derived_parameters": {
+  "demand.quiche.monday": {
+   "value": {
+    "type": "empirical",
+    "samples": [
+     36.0,
+     48.0,
+     41.0,
+     44.0,
+     55.0,
+     39.0,
+     47.0,
+     40.0,
+     45.0,
+     51.0,
+     38.0,
+     42.0,
+     36.0,
+     48.0,
+     41.0,
+     44.0,
+     55.0,
+     39.0,
+     47.0,
+     40.0,
+     45.0,
+     51.0,
+     38.0,
+     42.0
+    ]
+   },
+   "source": "estimated",
+   "method": "empirical: observed days",
+   "n_points": 12,
+   "first": "2026-08-03",
+   "last": "2026-10-19"
+  },
+  "demand.tart.monday": {
+   "value": {
+    "type": "empirical",
+    "samples": [
+     11.0,
+     9.0,
+     10.0,
+     12.0,
+     15.0,
+     8.0,
+     13.0,
+     11.0,
+     10.0,
+     14.0,
+     9.0,
+     12.0,
+     11.0,
+     9.0,
+     10.0,
+     12.0,
+     15.0,
+     8.0,
+     13.0,
+     11.0,
+     10.0,
+     14.0,
+     9.0,
+     12.0
+    ]
+   },
+   "source": "estimated",
+   "method": "empirical: observed days",
+   "n_points": 12,
+   "first": "2026-08-03",
+   "last": "2026-10-19"
+  }
+ },
+ "data_quality": {
+  "coverage": {
+   "sales": {
+    "first": "2026-08-03",
+    "last": "2026-10-19"
+   }
+  },
+  "missing_periods": {},
+  "outliers": [],
+  "requirements": [
+   {
+    "parameter": "demand.quiche.monday",
+    "minimum": 8,
+    "found": 12,
+    "met": true
+   },
+   {
+    "parameter": "demand.tart.monday",
+    "minimum": 8,
+    "found": 12,
+    "met": true
+   }
+  ],
+  "ignored_records": [],
+  "ignored_counts": {},
+  "usable": true
+ }
+}

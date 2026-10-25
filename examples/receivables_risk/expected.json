@@ -1,0 +1,321 @@
+{
+ "result": {
+  "ageing": {
+   "transition_matrix": {
+    "CURRENT": {
+     "CURRENT": 2.8538324115454643e-06,
+     "LATE_30": 0.3150659520670308,
+     "LATE_60": 2.8538324115454643e-06,
+     "LATE_90": 2.8538324115454643e-06,
+     "PAID": 0.684922632603323,
+     "DEFAULT": 2.8538324115454643e-06
+    },
+    "LATE_30": {
+     "CURRENT": 9.469158949302122e-06,
+     "LATE_30": 9.469158949302122e-06,
+     "LATE_60": 0.4999810616821014,
+     "LATE_90": 9.469158949302122e-06,
+     "PAID": 0.4999810616821014,
+     "DEFAULT": 9.469158949302122e-06
+    },
+    "LATE_60": {
+     "CURRENT": 1.8937241980078023e-05,
+     "LATE_30": 1.8937241980078023e-05,
+     "LATE_60": 1.8937241980078023e-05,
+     "LATE_90": 0.5454115062682271,
+     "PAID": 0.4545127447638526,
+     "DEFAULT": 1.8937241980078023e-05
+    },
+    "LATE_90": {
+     "CURRENT": 1.8937241980078023e-05,
+     "LATE_30": 1.8937241980078023e-05,
+     "LATE_60": 1.8937241980078023e-05,
+     "LATE_90": 0.5454115062682271,
+     "PAID": 0.1818164602507291,
+     "DEFAULT": 0.2727152217551036
+    },
+    "PAID": {
+     "CURRENT": 0.0,
+     "LATE_30": 0.0,
+     "LATE_60": 0.0,
+     "LATE_90": 0.0,
+     "PAID": 1.0,
+     "DEFAULT": 0.0
+    },
+    "DEFAULT": {
+     "CURRENT": 0.0,
+     "LATE_30": 0.0,
+     "LATE_60": 0.0,
+     "LATE_90": 0.0,
+     "PAID": 0.0,
+     "DEFAULT": 1.0
+    }
+   },
+   "projection": [
+    {
+     "month": 1,
+     "balances": {
+      "CURRENT": 0.13,
+      "LATE_30": 2268.59,
+      "LATE_60": 1200.07,
+      "LATE_90": 2618.02,
+      "PAID": 7658.59,
+      "DEFAULT": 654.61
+     },
+     "collections": 7658.59,
+     "new_defaults": 654.61
+    },
+    {
+     "month": 2,
+     "balances": {
+      "CURRENT": 0.09,
+      "LATE_30": 0.14,
+      "LATE_60": 1134.32,
+      "LATE_90": 2082.45,
+      "PAID": 9814.37,
+      "DEFAULT": 1368.62
+     },
+     "collections": 2155.79,
+     "new_defaults": 714.02
+    },
+    {
+     "month": 3,
+     "balances": {
+      "CURRENT": 0.06,
+      "LATE_30": 0.09,
+      "LATE_60": 0.13,
+      "LATE_90": 1754.46,
+      "PAID": 10708.7,
+      "DEFAULT": 1936.56
+     },
+     "collections": 894.32,
+     "new_defaults": 567.94
+    },
+    {
+     "month": 4,
+     "balances": {
+      "CURRENT": 0.03,
+      "LATE_30": 0.05,
+      "LATE_60": 0.08,
+      "LATE_90": 956.98,
+      "PAID": 11027.83,
+      "DEFAULT": 2415.03
+     },
+     "collections": 319.14,
+     "new_defaults": 478.47
+    },
+    {
+     "month": 5,
+     "balances": {
+      "CURRENT": 0.02,
+      "LATE_30": 0.03,
+      "LATE_60": 0.04,
+      "LATE_90": 521.99,
+      "PAID": 11201.91,
+      "DEFAULT": 2676.01
+     },
+     "collections": 174.08,
+     "new_defaults": 260.98
+    },
+    {
+     "month": 6,
+     "balances": {
+      "CURRENT": 0.01,
+      "LATE_30": 0.02,
+      "LATE_60": 0.02,
+      "LATE_90": 284.72,
+      "PAID": 11296.86,
+      "DEFAULT": 2818.37
+     },
+     "collections": 94.95,
+     "new_defaults": 142.35
+    }
+   ],
+   "absorption": {
+    "p_default_from": {
+     "CURRENT": 0.05156067277932977,
+     "LATE_30": 0.1636324885006831,
+     "LATE_60": 0.327242996309938,
+     "LATE_90": 0.5999392808230615
+    },
+    "p_paid_from": {
+     "CURRENT": 0.94843932722067,
+     "LATE_30": 0.836367511499317,
+     "LATE_60": 0.6727570036900622,
+     "LATE_90": 0.4000607191769386
+    },
+    "expected_months_to_payment": {
+     "CURRENT": 1.4693462072051031,
+     "LATE_30": 1.6892529960787677,
+     "LATE_60": 1.7137115921855355,
+     "LATE_90": 2.2002039921476073
+    },
+    "expected_months_to_resolution": {
+     "CURRENT": 1.6616667690626334,
+     "LATE_30": 2.1000348197322825,
+     "LATE_60": 2.200040064222163,
+     "LATE_90": 2.2000400642221627
+    }
+   },
+   "expected_default_amount": 2989.19
+  },
+  "expected_loss": {
+   "expected_loss": 2989.19,
+   "by_segment": {
+    "C0": 392.72,
+    "C1": 785.38,
+    "C2": 123.75,
+    "C3": 123.75,
+    "C4": 1563.6
+   },
+   "concentration": 0.958602323632734,
+   "loss_quantiles": null,
+   "expected_shortfall": null
+  }
+ },
+ "assumptions": {
+  "as_of": "2026-10-20",
+  "seed": null,
+  "history_months": 24,
+  "horizon": 6,
+  "lgd": 1.0,
+  "payment_terms_days": 30,
+  "n_simulations": null,
+  "confidence": 0.95,
+  "markov": {
+   "states": [
+    "CURRENT",
+    "LATE_30",
+    "LATE_60",
+    "LATE_90",
+    "PAID",
+    "DEFAULT"
+   ],
+   "absorbing_states": [
+    "PAID",
+    "DEFAULT"
+   ],
+   "weight_by": "amount",
+   "smoothing": 0.5,
+   "smoothing_targets": "every state, from every non-absorbing state",
+   "horizon_periods": 6,
+   "period": "month"
+  },
+  "expected_loss": {
+   "pd_for_beta": "mean alpha / (alpha + beta) for the expectation; drawn per simulation",
+   "defaults": "independent",
+   "lgd_default": 1.0,
+   "n_simulations": null,
+   "seed": null,
+   "quantiles": null,
+   "confidence": null,
+   "random_streams": null,
+   "random_generator": null
+  },
+  "pd": "probability that an invoice in its current state ends in DEFAULT",
+  "states": "LATE_30: 1 to 30 days past due, LATE_60: 31 to 60, LATE_90: more than 60"
+ },
+ "warnings": [],
+ "meta": {
+  "library_version": "0.1.0.dev0",
+  "method": "receivables-risk"
+ },
+ "derived_parameters": {
+  "transitions": {
+   "value": [
+    {
+     "from": "CURRENT",
+     "to": "LATE_30",
+     "count": 55200.0
+    },
+    {
+     "from": "CURRENT",
+     "to": "PAID",
+     "count": 120000.0
+    },
+    {
+     "from": "LATE_30",
+     "to": "LATE_60",
+     "count": 26400.0
+    },
+    {
+     "from": "LATE_30",
+     "to": "PAID",
+     "count": 26400.0
+    },
+    {
+     "from": "LATE_60",
+     "to": "LATE_90",
+     "count": 14400.0
+    },
+    {
+     "from": "LATE_60",
+     "to": "PAID",
+     "count": 12000.0
+    },
+    {
+     "from": "LATE_90",
+     "to": "DEFAULT",
+     "count": 7200.0
+    },
+    {
+     "from": "LATE_90",
+     "to": "LATE_90",
+     "count": 14400.0
+    },
+    {
+     "from": "LATE_90",
+     "to": "PAID",
+     "count": 4800.0
+    }
+   ],
+   "source": "estimated",
+   "method": "month-end states, weighted by amount due; smoothing 0.5 in the formula",
+   "n_points": 73,
+   "first": "2024-10-31",
+   "last": "2026-09-30"
+  },
+  "current_exposure": {
+   "value": {
+    "CURRENT": 7200.0,
+    "LATE_30": 2400.0,
+    "LATE_60": 2400.0,
+    "LATE_90": 2400.0
+   },
+   "source": "estimated",
+   "method": "amount still due by state",
+   "n_points": 0,
+   "first": null,
+   "last": null
+  },
+  "lgd": {
+   "value": 1.0,
+   "source": "default",
+   "method": "setting lgd",
+   "n_points": 0,
+   "first": null,
+   "last": null
+  }
+ },
+ "data_quality": {
+  "coverage": {
+   "invoices": {
+    "first": "2024-11-04",
+    "last": "2026-10-16"
+   }
+  },
+  "missing_periods": {},
+  "outliers": [],
+  "requirements": [
+   {
+    "parameter": "invoices.history_months",
+    "minimum": 24,
+    "found": 23,
+    "met": false
+   }
+  ],
+  "ignored_records": [],
+  "ignored_counts": {},
+  "usable": false
+ }
+}

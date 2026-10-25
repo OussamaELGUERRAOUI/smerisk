@@ -1,0 +1,185 @@
+{
+ "employment_periods": [
+  {
+   "employee_ref": "e0",
+   "start": "2024-01-08",
+   "groups": {
+    "site_ref": "s2"
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "start": "2024-01-08",
+   "groups": {
+    "site_ref": "s1"
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "start": "2024-01-08",
+   "groups": {
+    "site_ref": "s2"
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "start": "2024-01-08",
+   "groups": {
+    "site_ref": "s1"
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "start": "2024-01-08",
+   "groups": {
+    "site_ref": "s2"
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "start": "2024-01-08",
+   "groups": {
+    "site_ref": "s1"
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "start": "2024-01-08",
+   "groups": {
+    "site_ref": "s2"
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "start": "2024-01-08",
+   "groups": {
+    "site_ref": "s1"
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "start": "2024-01-08",
+   "groups": {
+    "site_ref": "s2"
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "start": "2024-01-08",
+   "groups": {
+    "site_ref": "s1"
+   }
+  },
+  {
+   "employee_ref": "e10",
+   "start": "2024-01-08",
+   "groups": {
+    "site_ref": "s2"
+   }
+  },
+  {
+   "employee_ref": "e11",
+   "start": "2024-01-08",
+   "groups": {
+    "site_ref": "s1"
+   }
+  },
+  {
+   "employee_ref": "e12",
+   "start": "2024-01-08",
+   "groups": {
+    "site_ref": "s2"
+   }
+  },
+  {
+   "employee_ref": "e13",
+   "start": "2024-01-08",
+   "groups": {
+    "site_ref": "s1"
+   }
+  },
+  {
+   "employee_ref": "e14",
+   "start": "2024-01-08",
+   "groups": {
+    "site_ref": "s2"
+   }
+  },
+  {
+   "employee_ref": "e15",
+   "start": "2024-01-08",
+   "groups": {
+    "site_ref": "s1"
+   }
+  },
+  {
+   "employee_ref": "e16",
+   "start": "2024-01-08",
+   "groups": {
+    "site_ref": "s2"
+   }
+  },
+  {
+   "employee_ref": "e17",
+   "start": "2024-01-08",
+   "groups": {
+    "site_ref": "s1"
+   }
+  },
+  {
+   "employee_ref": "x0",
+   "start": "2024-01-08",
+   "end": "2024-03-29",
+   "end_reason": "RESIGNATION",
+   "groups": {
+    "site_ref": "s1"
+   }
+  },
+  {
+   "employee_ref": "x1",
+   "start": "2024-01-08",
+   "end": "2024-06-28",
+   "end_reason": "RESIGNATION",
+   "groups": {
+    "site_ref": "s1"
+   }
+  },
+  {
+   "employee_ref": "x2",
+   "start": "2024-01-08",
+   "end": "2024-11-29",
+   "end_reason": "RESIGNATION",
+   "groups": {
+    "site_ref": "s1"
+   }
+  },
+  {
+   "employee_ref": "x3",
+   "start": "2024-01-08",
+   "end": "2025-05-30",
+   "end_reason": "RESIGNATION",
+   "groups": {
+    "site_ref": "s1"
+   }
+  },
+  {
+   "employee_ref": "x4",
+   "start": "2024-01-08",
+   "end": "2025-09-30",
+   "end_reason": "RESIGNATION",
+   "groups": {
+    "site_ref": "s1"
+   }
+  },
+  {
+   "employee_ref": "t1",
+   "start": "2024-01-08",
+   "end": "2024-06-30",
+   "end_reason": "END_OF_FIXED_TERM"
+  }
+ ],
+ "settings": {
+  "as_of": "2026-10-20",
+  "group_by": "site_ref"
+ }
+}

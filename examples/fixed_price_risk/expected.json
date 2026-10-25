@@ -1,0 +1,193 @@
+{
+ "result": {
+  "projects": [
+   {
+    "project_ref": "website",
+    "deadline_days": 38.0,
+    "completion": {
+     "eac_quantiles": {
+      "0.05": 31517.3,
+      "0.1": 32922.76,
+      "0.5": 38945.47,
+      "0.9": 45863.81,
+      "0.95": 47827.95
+     },
+     "margin_quantiles": {
+      "0.05": 12172.05,
+      "0.1": 14136.19,
+      "0.5": 21054.53,
+      "0.9": 27077.24,
+      "0.95": 28482.7
+     },
+     "margin_rate_quantiles": {
+      "0.05": 0.202868,
+      "0.1": 0.235603,
+      "0.5": 0.350909,
+      "0.9": 0.451287,
+      "0.95": 0.474712
+     },
+     "p_loss": 0.0004,
+     "p_within_budget": 0.5826,
+     "p_on_time": 0.85,
+     "risk_contributions": [
+      {
+       "id": "design",
+       "kind": "task",
+       "share": 0.186554
+      },
+      {
+       "id": "build",
+       "kind": "task",
+       "share": 0.689957
+      },
+      {
+       "id": "tests",
+       "kind": "task",
+       "share": 0.086413
+      },
+      {
+       "id": "api-change",
+       "kind": "risk",
+       "share": 0.037077
+      }
+     ]
+    }
+   }
+  ]
+ },
+ "assumptions": {
+  "as_of": "2026-10-20",
+  "seed": 42,
+  "n_simulations": 5000,
+  "confidence": 0.95,
+  "quantiles": [
+   0.05,
+   0.1,
+   0.5,
+   0.9,
+   0.95
+  ],
+  "fixed_price_completion": {
+   "n_simulations": 5000,
+   "quantiles": [
+    0.05,
+    0.1,
+    0.5,
+    0.9,
+    0.95
+   ],
+   "task_distribution": "beta-pert",
+   "risks_independent": true,
+   "random_streams": "one per task, per risk, and for the daily cost",
+   "daily_cost_draw": "one per simulation",
+   "cost_budget": 40000.0,
+   "deadline_days": 38.0,
+   "team_capacity_days_per_period": 2.0,
+   "random_generator": "PCG64",
+   "quantile_method": "linear"
+  },
+  "team_capacity": "one day of effort per working day for each member with a known cost"
+ },
+ "warnings": [],
+ "meta": {
+  "library_version": "0.1.0.dev0",
+  "method": "fixed-price-risk"
+ },
+ "derived_parameters": {
+  "projects.website.daily_cost": {
+   "value": {
+    "type": "normal",
+    "mean": 500.0,
+    "sd": 50.0,
+    "min": 0.0,
+    "max": null
+   },
+   "source": "estimated",
+   "method": "team mean daily cost (equal weights), spread between members",
+   "n_points": 2,
+   "first": null,
+   "last": null
+  },
+  "projects.website.actual_cost": {
+   "value": 5400.0,
+   "source": "estimated",
+   "method": "timesheet days × daily cost of each consultant",
+   "n_points": 1,
+   "first": "2026-09",
+   "last": "2026-09"
+  },
+  "projects.website.remaining_tasks": {
+   "value": [
+    {
+     "id": "design",
+     "optimistic": 10.0,
+     "most_likely": 15.0,
+     "pessimistic": 25.0
+    },
+    {
+     "id": "build",
+     "optimistic": 30.0,
+     "most_likely": 40.0,
+     "pessimistic": 65.0
+    },
+    {
+     "id": "tests",
+     "optimistic": 5.0,
+     "most_likely": 8.0,
+     "pessimistic": 14.0
+    }
+   ],
+   "source": "estimated",
+   "method": "remaining tasks (days)",
+   "n_points": 3,
+   "first": null,
+   "last": null
+  },
+  "projects.website.risks": {
+   "value": [
+    {
+     "id": "api-change",
+     "probability": 0.3,
+     "impact_days": {
+      "min": 0.0,
+      "mode": 3.0,
+      "max": 8.0,
+      "type": "pert"
+     }
+    }
+   ],
+   "source": "estimated",
+   "method": "risk register; impact PERT(0, most likely, max)",
+   "n_points": 0,
+   "first": null,
+   "last": null
+  }
+ },
+ "data_quality": {
+  "coverage": {
+   "timesheets": {
+    "first": "2026-09",
+    "last": "2026-09"
+   }
+  },
+  "missing_periods": {},
+  "outliers": [],
+  "requirements": [
+   {
+    "parameter": "projects.website.team_costs",
+    "minimum": 2,
+    "found": 2,
+    "met": true
+   },
+   {
+    "parameter": "projects.website.actual_cost",
+    "minimum": 1,
+    "found": 1,
+    "met": true
+   }
+  ],
+  "ignored_records": [],
+  "ignored_counts": {},
+  "usable": true
+ }
+}

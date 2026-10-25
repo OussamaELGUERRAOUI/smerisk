@@ -1,0 +1,14 @@
+"""Stable warning codes (§2.5). Adding one is a minor version; removing one is a major version."""
+
+from enum import StrEnum
+
+
+class WarningCode(StrEnum):
+    SMALL_SAMPLE = "SMALL_SAMPLE"
+    CORRELATION_ADJUSTED = "CORRELATION_ADJUSTED"
+    HIGH_UNCERTAINTY = "HIGH_UNCERTAINTY"
+    EXTRAPOLATION = "EXTRAPOLATION"
+    DEFAULT_PRIOR = "DEFAULT_PRIOR"
+    NO_BETWEEN_GROUP_VARIANCE = "NO_BETWEEN_GROUP_VARIANCE"
+    NO_SEASONALITY = "NO_SEASONALITY"
+    DEFAULT_CORRELATION = "DEFAULT_CORRELATION"

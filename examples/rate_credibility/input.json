@@ -1,0 +1,449 @@
+{
+ "absence_months": [
+  {
+   "period": "2025-01",
+   "group": "lyon",
+   "absence_days": 30.2,
+   "theoretical_days": 840.0,
+   "headcount": 40
+  },
+  {
+   "period": "2025-02",
+   "group": "lyon",
+   "absence_days": 34.0,
+   "theoretical_days": 840.0,
+   "headcount": 40
+  },
+  {
+   "period": "2025-03",
+   "group": "lyon",
+   "absence_days": 37.8,
+   "theoretical_days": 840.0,
+   "headcount": 40
+  },
+  {
+   "period": "2025-04",
+   "group": "lyon",
+   "absence_days": 41.6,
+   "theoretical_days": 840.0,
+   "headcount": 40
+  },
+  {
+   "period": "2025-05",
+   "group": "lyon",
+   "absence_days": 45.4,
+   "theoretical_days": 840.0,
+   "headcount": 40
+  },
+  {
+   "period": "2025-06",
+   "group": "lyon",
+   "absence_days": 30.2,
+   "theoretical_days": 840.0,
+   "headcount": 40
+  },
+  {
+   "period": "2025-07",
+   "group": "lyon",
+   "absence_days": 34.0,
+   "theoretical_days": 840.0,
+   "headcount": 40
+  },
+  {
+   "period": "2025-08",
+   "group": "lyon",
+   "absence_days": 37.8,
+   "theoretical_days": 840.0,
+   "headcount": 40
+  },
+  {
+   "period": "2025-09",
+   "group": "lyon",
+   "absence_days": 41.6,
+   "theoretical_days": 840.0,
+   "headcount": 40
+  },
+  {
+   "period": "2025-10",
+   "group": "lyon",
+   "absence_days": 45.4,
+   "theoretical_days": 840.0,
+   "headcount": 40
+  },
+  {
+   "period": "2025-11",
+   "group": "lyon",
+   "absence_days": 30.2,
+   "theoretical_days": 840.0,
+   "headcount": 40
+  },
+  {
+   "period": "2025-12",
+   "group": "lyon",
+   "absence_days": 34.0,
+   "theoretical_days": 840.0,
+   "headcount": 40
+  },
+  {
+   "period": "2026-01",
+   "group": "lyon",
+   "absence_days": 37.8,
+   "theoretical_days": 840.0,
+   "headcount": 40
+  },
+  {
+   "period": "2026-02",
+   "group": "lyon",
+   "absence_days": 41.6,
+   "theoretical_days": 840.0,
+   "headcount": 40
+  },
+  {
+   "period": "2026-03",
+   "group": "lyon",
+   "absence_days": 45.4,
+   "theoretical_days": 840.0,
+   "headcount": 40
+  },
+  {
+   "period": "2026-04",
+   "group": "lyon",
+   "absence_days": 30.2,
+   "theoretical_days": 840.0,
+   "headcount": 40
+  },
+  {
+   "period": "2026-05",
+   "group": "lyon",
+   "absence_days": 34.0,
+   "theoretical_days": 840.0,
+   "headcount": 40
+  },
+  {
+   "period": "2026-06",
+   "group": "lyon",
+   "absence_days": 37.8,
+   "theoretical_days": 840.0,
+   "headcount": 40
+  },
+  {
+   "period": "2026-07",
+   "group": "lyon",
+   "absence_days": 41.6,
+   "theoretical_days": 840.0,
+   "headcount": 40
+  },
+  {
+   "period": "2026-08",
+   "group": "lyon",
+   "absence_days": 45.4,
+   "theoretical_days": 840.0,
+   "headcount": 40
+  },
+  {
+   "period": "2026-09",
+   "group": "lyon",
+   "absence_days": 30.2,
+   "theoretical_days": 840.0,
+   "headcount": 40
+  },
+  {
+   "period": "2025-01",
+   "group": "lille",
+   "absence_days": 18.1,
+   "theoretical_days": 252.0,
+   "headcount": 12
+  },
+  {
+   "period": "2025-02",
+   "group": "lille",
+   "absence_days": 20.2,
+   "theoretical_days": 252.0,
+   "headcount": 12
+  },
+  {
+   "period": "2025-03",
+   "group": "lille",
+   "absence_days": 22.2,
+   "theoretical_days": 252.0,
+   "headcount": 12
+  },
+  {
+   "period": "2025-04",
+   "group": "lille",
+   "absence_days": 24.2,
+   "theoretical_days": 252.0,
+   "headcount": 12
+  },
+  {
+   "period": "2025-05",
+   "group": "lille",
+   "absence_days": 16.1,
+   "theoretical_days": 252.0,
+   "headcount": 12
+  },
+  {
+   "period": "2025-06",
+   "group": "lille",
+   "absence_days": 18.1,
+   "theoretical_days": 252.0,
+   "headcount": 12
+  },
+  {
+   "period": "2025-07",
+   "group": "lille",
+   "absence_days": 20.2,
+   "theoretical_days": 252.0,
+   "headcount": 12
+  },
+  {
+   "period": "2025-08",
+   "group": "lille",
+   "absence_days": 22.2,
+   "theoretical_days": 252.0,
+   "headcount": 12
+  },
+  {
+   "period": "2025-09",
+   "group": "lille",
+   "absence_days": 24.2,
+   "theoretical_days": 252.0,
+   "headcount": 12
+  },
+  {
+   "period": "2025-10",
+   "group": "lille",
+   "absence_days": 16.1,
+   "theoretical_days": 252.0,
+   "headcount": 12
+  },
+  {
+   "period": "2025-11",
+   "group": "lille",
+   "absence_days": 18.1,
+   "theoretical_days": 252.0,
+   "headcount": 12
+  },
+  {
+   "period": "2025-12",
+   "group": "lille",
+   "absence_days": 20.2,
+   "theoretical_days": 252.0,
+   "headcount": 12
+  },
+  {
+   "period": "2026-01",
+   "group": "lille",
+   "absence_days": 22.2,
+   "theoretical_days": 252.0,
+   "headcount": 12
+  },
+  {
+   "period": "2026-02",
+   "group": "lille",
+   "absence_days": 24.2,
+   "theoretical_days": 252.0,
+   "headcount": 12
+  },
+  {
+   "period": "2026-03",
+   "group": "lille",
+   "absence_days": 16.1,
+   "theoretical_days": 252.0,
+   "headcount": 12
+  },
+  {
+   "period": "2026-04",
+   "group": "lille",
+   "absence_days": 18.1,
+   "theoretical_days": 252.0,
+   "headcount": 12
+  },
+  {
+   "period": "2026-05",
+   "group": "lille",
+   "absence_days": 20.2,
+   "theoretical_days": 252.0,
+   "headcount": 12
+  },
+  {
+   "period": "2026-06",
+   "group": "lille",
+   "absence_days": 22.2,
+   "theoretical_days": 252.0,
+   "headcount": 12
+  },
+  {
+   "period": "2026-07",
+   "group": "lille",
+   "absence_days": 24.2,
+   "theoretical_days": 252.0,
+   "headcount": 12
+  },
+  {
+   "period": "2026-08",
+   "group": "lille",
+   "absence_days": 16.1,
+   "theoretical_days": 252.0,
+   "headcount": 12
+  },
+  {
+   "period": "2026-09",
+   "group": "lille",
+   "absence_days": 18.1,
+   "theoretical_days": 252.0,
+   "headcount": 12
+  },
+  {
+   "period": "2025-01",
+   "group": "nantes",
+   "absence_days": 3.8,
+   "theoretical_days": 126.0,
+   "headcount": 6
+  },
+  {
+   "period": "2025-02",
+   "group": "nantes",
+   "absence_days": 4.2,
+   "theoretical_days": 126.0,
+   "headcount": 6
+  },
+  {
+   "period": "2025-03",
+   "group": "nantes",
+   "absence_days": 4.5,
+   "theoretical_days": 126.0,
+   "headcount": 6
+  },
+  {
+   "period": "2025-04",
+   "group": "nantes",
+   "absence_days": 3.0,
+   "theoretical_days": 126.0,
+   "headcount": 6
+  },
+  {
+   "period": "2025-05",
+   "group": "nantes",
+   "absence_days": 3.4,
+   "theoretical_days": 126.0,
+   "headcount": 6
+  },
+  {
+   "period": "2025-06",
+   "group": "nantes",
+   "absence_days": 3.8,
+   "theoretical_days": 126.0,
+   "headcount": 6
+  },
+  {
+   "period": "2025-07",
+   "group": "nantes",
+   "absence_days": 4.2,
+   "theoretical_days": 126.0,
+   "headcount": 6
+  },
+  {
+   "period": "2025-08",
+   "group": "nantes",
+   "absence_days": 4.5,
+   "theoretical_days": 126.0,
+   "headcount": 6
+  },
+  {
+   "period": "2025-09",
+   "group": "nantes",
+   "absence_days": 3.0,
+   "theoretical_days": 126.0,
+   "headcount": 6
+  },
+  {
+   "period": "2025-10",
+   "group": "nantes",
+   "absence_days": 3.4,
+   "theoretical_days": 126.0,
+   "headcount": 6
+  },
+  {
+   "period": "2025-11",
+   "group": "nantes",
+   "absence_days": 3.8,
+   "theoretical_days": 126.0,
+   "headcount": 6
+  },
+  {
+   "period": "2025-12",
+   "group": "nantes",
+   "absence_days": 4.2,
+   "theoretical_days": 126.0,
+   "headcount": 6
+  },
+  {
+   "period": "2026-01",
+   "group": "nantes",
+   "absence_days": 4.5,
+   "theoretical_days": 126.0,
+   "headcount": 6
+  },
+  {
+   "period": "2026-02",
+   "group": "nantes",
+   "absence_days": 3.0,
+   "theoretical_days": 126.0,
+   "headcount": 6
+  },
+  {
+   "period": "2026-03",
+   "group": "nantes",
+   "absence_days": 3.4,
+   "theoretical_days": 126.0,
+   "headcount": 6
+  },
+  {
+   "period": "2026-04",
+   "group": "nantes",
+   "absence_days": 3.8,
+   "theoretical_days": 126.0,
+   "headcount": 6
+  },
+  {
+   "period": "2026-05",
+   "group": "nantes",
+   "absence_days": 4.2,
+   "theoretical_days": 126.0,
+   "headcount": 6
+  },
+  {
+   "period": "2026-06",
+   "group": "nantes",
+   "absence_days": 4.5,
+   "theoretical_days": 126.0,
+   "headcount": 6
+  },
+  {
+   "period": "2026-07",
+   "group": "nantes",
+   "absence_days": 3.0,
+   "theoretical_days": 126.0,
+   "headcount": 6
+  },
+  {
+   "period": "2026-08",
+   "group": "nantes",
+   "absence_days": 3.4,
+   "theoretical_days": 126.0,
+   "headcount": 6
+  },
+  {
+   "period": "2026-09",
+   "group": "nantes",
+   "absence_days": 3.8,
+   "theoretical_days": 126.0,
+   "headcount": 6
+  }
+ ],
+ "settings": {
+  "as_of": "2026-10-20",
+  "reference_mean": 0.05
+ }
+}

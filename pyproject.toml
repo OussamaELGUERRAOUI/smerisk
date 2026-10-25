@@ -1,0 +1,92 @@
+[build-system]
+requires = ["hatchling>=1.25"]
+build-backend = "hatchling.build"
+
+[project]
+name = "smerisk"
+dynamic = ["version"]
+description = "Probabilistic and statistical calculations for managing small and medium-sized businesses: cash at risk, fixed-price projects, credibility, survival, unpaid receivables, Benford, newsvendor, Erlang C."
+readme = "README.md"
+license = "Apache-2.0"
+license-files = ["LICENSE"]
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.0",
+    "scipy>=1.13",
+    "pydantic>=2.7",
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Financial and Insurance Industry",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Mathematics",
+    "Typing :: Typed",
+]
+
+[project.urls]
+Homepage = "https://github.com/OussamaELGUERRAOUI/smerisk"
+Source = "https://github.com/OussamaELGUERRAOUI/smerisk"
+Documentation = "https://github.com/OussamaELGUERRAOUI/smerisk/tree/main/docs"
+Changelog = "https://github.com/OussamaELGUERRAOUI/smerisk/blob/main/CHANGELOG.md"
+Issues = "https://github.com/OussamaELGUERRAOUI/smerisk/issues"
+
+[dependency-groups]
+dev = [
+    "pytest>=8",
+    "pytest-cov>=5",
+    "hypothesis>=6.100",
+    "mypy>=1.11",
+    "ruff>=0.6",
+    "httpx2",
+    "smerisk-service",
+]
+
+[tool.hatch.version]
+path = "src/smerisk/_version.py"
+
+[tool.hatch.build.targets.sdist]
+# The library only: the service and the CI configuration are not part of the package.
+include = ["/src", "/tests", "/docs", "/examples", "/README.md", "/CHANGELOG.md", "/LICENSE"]
+exclude = ["/tests/service"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/smerisk"]
+
+[tool.uv.workspace]
+members = ["service"]
+
+[tool.uv.sources]
+smerisk-service = { workspace = true }
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--strict-markers"
+
+[tool.coverage.run]
+source = ["smerisk", "smerisk_service"]
+branch = true
+
+[tool.mypy]
+strict = true
+packages = ["smerisk", "smerisk_service"]
+mypy_path = ["src", "service"]
+plugins = ["pydantic.mypy"]
+
+[[tool.mypy.overrides]]
+module = ["scipy.*"]
+ignore_missing_imports = true
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "NPY"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["smerisk", "smerisk_service"]

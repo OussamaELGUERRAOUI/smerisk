@@ -1,0 +1,387 @@
+{
+ "result": {
+  "curves": [
+   {
+    "group": "ALL",
+    "subjects": 24,
+    "events": 5,
+    "steps": [
+     {
+      "t": 2.6611909650924024,
+      "survival": 0.9583333333333334,
+      "lower": 0.7392061511468954,
+      "upper": 0.9940237201956953,
+      "at_risk": 24,
+      "events": 1
+     },
+     {
+      "t": 5.650924024640657,
+      "survival": 0.9166666666666667,
+      "lower": 0.7060552678440145,
+      "upper": 0.9784830365742961,
+      "at_risk": 23,
+      "events": 1
+     },
+     {
+      "t": 10.710472279260781,
+      "survival": 0.873015873015873,
+      "lower": 0.6558031893010426,
+      "upper": 0.9572291371600228,
+      "at_risk": 21,
+      "events": 1
+     },
+     {
+      "t": 16.689938398357288,
+      "survival": 0.8293650793650793,
+      "lower": 0.6066078277493179,
+      "upper": 0.9323688575800091,
+      "at_risk": 20,
+      "events": 1
+     },
+     {
+      "t": 20.73100616016427,
+      "survival": 0.7857142857142857,
+      "lower": 0.5591042622244313,
+      "upper": 0.9048106401071879,
+      "at_risk": 19,
+      "events": 1
+     }
+    ],
+    "at_time_points": [
+     {
+      "t": 3.0,
+      "survival": 0.9583333333333334,
+      "lower": 0.7392061511468954,
+      "upper": 0.9940237201956953
+     },
+     {
+      "t": 6.0,
+      "survival": 0.9166666666666667,
+      "lower": 0.7060552678440145,
+      "upper": 0.9784830365742961
+     },
+     {
+      "t": 12.0,
+      "survival": 0.873015873015873,
+      "lower": 0.6558031893010426,
+      "upper": 0.9572291371600228
+     },
+     {
+      "t": 24.0,
+      "survival": 0.7857142857142857,
+      "lower": 0.5591042622244313,
+      "upper": 0.9048106401071879
+     }
+    ],
+    "median": null
+   },
+   {
+    "group": "s1",
+    "subjects": 14,
+    "events": 5,
+    "steps": [
+     {
+      "t": 2.6611909650924024,
+      "survival": 0.9285714285714286,
+      "lower": 0.590766867426758,
+      "upper": 0.9896198231368499,
+      "at_risk": 14,
+      "events": 1
+     },
+     {
+      "t": 5.650924024640657,
+      "survival": 0.8571428571428572,
+      "lower": 0.5394481776231689,
+      "upper": 0.9622318564063292,
+      "at_risk": 13,
+      "events": 1
+     },
+     {
+      "t": 10.710472279260781,
+      "survival": 0.7857142857142857,
+      "lower": 0.4724636799142606,
+      "upper": 0.9253652262552369,
+      "at_risk": 12,
+      "events": 1
+     },
+     {
+      "t": 16.689938398357288,
+      "survival": 0.7142857142857143,
+      "lower": 0.40630172242416995,
+      "upper": 0.8818786855464966,
+      "at_risk": 11,
+      "events": 1
+     },
+     {
+      "t": 20.73100616016427,
+      "survival": 0.6428571428571429,
+      "lower": 0.34330687789971276,
+      "upper": 0.8331068281919543,
+      "at_risk": 10,
+      "events": 1
+     }
+    ],
+    "at_time_points": [
+     {
+      "t": 3.0,
+      "survival": 0.9285714285714286,
+      "lower": 0.590766867426758,
+      "upper": 0.9896198231368499
+     },
+     {
+      "t": 6.0,
+      "survival": 0.8571428571428572,
+      "lower": 0.5394481776231689,
+      "upper": 0.9622318564063292
+     },
+     {
+      "t": 12.0,
+      "survival": 0.7857142857142857,
+      "lower": 0.4724636799142606,
+      "upper": 0.9253652262552369
+     },
+     {
+      "t": 24.0,
+      "survival": 0.6428571428571429,
+      "lower": 0.34330687789971276,
+      "upper": 0.8331068281919543
+     }
+    ],
+    "median": null
+   },
+   {
+    "group": "s2",
+    "subjects": 9,
+    "events": 0,
+    "steps": [],
+    "at_time_points": [
+     {
+      "t": 3.0,
+      "survival": 1.0,
+      "lower": 1.0,
+      "upper": 1.0
+     },
+     {
+      "t": 6.0,
+      "survival": 1.0,
+      "lower": 1.0,
+      "upper": 1.0
+     },
+     {
+      "t": 12.0,
+      "survival": 1.0,
+      "lower": 1.0,
+      "upper": 1.0
+     },
+     {
+      "t": 24.0,
+      "survival": 1.0,
+      "lower": 1.0,
+      "upper": 1.0
+     }
+    ],
+    "median": null
+   }
+  ],
+  "suppressed_groups": [
+   "unknown"
+  ],
+  "log_rank": {
+   "groups": [
+    "s1",
+    "s2"
+   ],
+   "statistic": 3.793227227194771,
+   "df": 1,
+   "p_value": 0.051460339329328815
+  }
+ },
+ "assumptions": {
+  "as_of": "2026-10-20",
+  "seed": null,
+  "group_by": "site_ref",
+  "time_points": [
+   3.0,
+   6.0,
+   12.0,
+   24.0
+  ],
+  "exclude_reasons": [
+   "END_OF_FIXED_TERM",
+   "RETIREMENT"
+  ],
+  "confidence": 0.95,
+  "min_group_size": 3,
+  "variance": "greenwood",
+  "confidence_interval": "log-log",
+  "median_rule": "first time with survival <= 0.5",
+  "ties": "censored subjects are at risk at their censoring time",
+  "contracts_merged": false
+ },
+ "warnings": [
+  {
+   "code": "SMALL_SAMPLE",
+   "message": "s1: 14 subjects and 5 events, recommended minimum 20 subjects and 5 events"
+  },
+  {
+   "code": "SMALL_SAMPLE",
+   "message": "s2: 9 subjects and 0 events, recommended minimum 20 subjects and 5 events"
+  }
+ ],
+ "meta": {
+  "library_version": "0.1.0.dev0",
+  "method": "attrition"
+ },
+ "derived_parameters": {
+  "subjects": {
+   "value": [
+    {
+     "duration": 33.379876796714576,
+     "event": false,
+     "group": "s2"
+    },
+    {
+     "duration": 33.379876796714576,
+     "event": false,
+     "group": "s1"
+    },
+    {
+     "duration": 33.379876796714576,
+     "event": false,
+     "group": "s2"
+    },
+    {
+     "duration": 33.379876796714576,
+     "event": false,
+     "group": "s1"
+    },
+    {
+     "duration": 33.379876796714576,
+     "event": false,
+     "group": "s2"
+    },
+    {
+     "duration": 33.379876796714576,
+     "event": false,
+     "group": "s1"
+    },
+    {
+     "duration": 33.379876796714576,
+     "event": false,
+     "group": "s2"
+    },
+    {
+     "duration": 33.379876796714576,
+     "event": false,
+     "group": "s1"
+    },
+    {
+     "duration": 33.379876796714576,
+     "event": false,
+     "group": "s2"
+    },
+    {
+     "duration": 33.379876796714576,
+     "event": false,
+     "group": "s1"
+    },
+    {
+     "duration": 33.379876796714576,
+     "event": false,
+     "group": "s2"
+    },
+    {
+     "duration": 33.379876796714576,
+     "event": false,
+     "group": "s1"
+    },
+    {
+     "duration": 33.379876796714576,
+     "event": false,
+     "group": "s2"
+    },
+    {
+     "duration": 33.379876796714576,
+     "event": false,
+     "group": "s1"
+    },
+    {
+     "duration": 33.379876796714576,
+     "event": false,
+     "group": "s2"
+    },
+    {
+     "duration": 33.379876796714576,
+     "event": false,
+     "group": "s1"
+    },
+    {
+     "duration": 33.379876796714576,
+     "event": false,
+     "group": "s2"
+    },
+    {
+     "duration": 33.379876796714576,
+     "event": false,
+     "group": "s1"
+    },
+    {
+     "duration": 5.716632443531828,
+     "event": false,
+     "group": "unknown"
+    },
+    {
+     "duration": 2.6611909650924024,
+     "event": true,
+     "group": "s1"
+    },
+    {
+     "duration": 5.650924024640657,
+     "event": true,
+     "group": "s1"
+    },
+    {
+     "duration": 10.710472279260781,
+     "event": true,
+     "group": "s1"
+    },
+    {
+     "duration": 16.689938398357288,
+     "event": true,
+     "group": "s1"
+    },
+    {
+     "duration": 20.73100616016427,
+     "event": true,
+     "group": "s1"
+    }
+   ],
+   "source": "estimated",
+   "method": "months of employment; exits for END_OF_FIXED_TERM, RETIREMENT censored",
+   "n_points": 24,
+   "first": "2024-01-08",
+   "last": "2026-10-20"
+  }
+ },
+ "data_quality": {
+  "coverage": {
+   "employment_periods": {
+    "first": "2024-01-08",
+    "last": "2024-01-08"
+   }
+  },
+  "missing_periods": {},
+  "outliers": [],
+  "requirements": [
+   {
+    "parameter": "employment_periods.employees",
+    "minimum": 20,
+    "found": 24,
+    "met": true
+   }
+  ],
+  "ignored_records": [],
+  "ignored_counts": {},
+  "usable": true
+ }
+}

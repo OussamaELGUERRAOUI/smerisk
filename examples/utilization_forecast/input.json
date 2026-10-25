@@ -1,0 +1,94 @@
+{
+ "consultants": [
+  {
+   "consultant_ref": "k1",
+   "daily_cost": 420
+  },
+  {
+   "consultant_ref": "k2",
+   "daily_cost": 420
+  },
+  {
+   "consultant_ref": "k3",
+   "daily_cost": 420
+  }
+ ],
+ "missions": [
+  {
+   "mission_ref": "m1",
+   "consultant_ref": "k1",
+   "customer_ref": "bank",
+   "start": "2025-01-06",
+   "planned_end": "2025-06-30",
+   "billing_type": "TIME",
+   "renewal_of": null
+  },
+  {
+   "mission_ref": "m2",
+   "consultant_ref": "k1",
+   "customer_ref": "bank",
+   "start": "2025-07-01",
+   "planned_end": "2026-11-30",
+   "billing_type": "TIME",
+   "renewal_of": "m1"
+  },
+  {
+   "mission_ref": "m3",
+   "consultant_ref": "k2",
+   "customer_ref": "insurer",
+   "start": "2025-09-01",
+   "planned_end": "2026-12-31",
+   "billing_type": "TIME",
+   "renewal_of": null
+  }
+ ],
+ "timesheets": [
+  {
+   "consultant_ref": "k1",
+   "period": "2026-05",
+   "mission_ref": "m2",
+   "billable_days": 18
+  },
+  {
+   "consultant_ref": "k1",
+   "period": "2026-06",
+   "mission_ref": "m2",
+   "billable_days": 18
+  },
+  {
+   "consultant_ref": "k1",
+   "period": "2026-07",
+   "mission_ref": "m2",
+   "billable_days": 18
+  },
+  {
+   "consultant_ref": "k1",
+   "period": "2026-08",
+   "mission_ref": "m2",
+   "billable_days": 18
+  },
+  {
+   "consultant_ref": "k1",
+   "period": "2026-09",
+   "mission_ref": "m2",
+   "billable_days": 18
+  }
+ ],
+ "deals": [
+  {
+   "deal_ref": "d1",
+   "customer_ref": "retailer",
+   "stage": "proposal",
+   "amount": 90000,
+   "outcome": "OPEN",
+   "expected_start": "2027-01-04",
+   "consultants_needed": 1,
+   "expected_duration_months": 4
+  }
+ ],
+ "settings": {
+  "as_of": "2026-10-20",
+  "seed": 3,
+  "n_simulations": 5000
+ }
+}

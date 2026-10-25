@@ -1,0 +1,200 @@
+{
+ "sales": [
+  {
+   "site_ref": "takeaway",
+   "date": "2026-10-17",
+   "hour": 12,
+   "tickets": 58,
+   "quantity": 58,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-10-17",
+   "hour": 13,
+   "tickets": 46,
+   "quantity": 46,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-10-17",
+   "hour": 19,
+   "tickets": 33,
+   "quantity": 33,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-10-10",
+   "hour": 12,
+   "tickets": 62,
+   "quantity": 58,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-10-10",
+   "hour": 13,
+   "tickets": 50,
+   "quantity": 46,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-10-10",
+   "hour": 19,
+   "tickets": 37,
+   "quantity": 33,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-10-03",
+   "hour": 12,
+   "tickets": 66,
+   "quantity": 58,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-10-03",
+   "hour": 13,
+   "tickets": 54,
+   "quantity": 46,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-10-03",
+   "hour": 19,
+   "tickets": 41,
+   "quantity": 33,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-09-26",
+   "hour": 12,
+   "tickets": 58,
+   "quantity": 58,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-09-26",
+   "hour": 13,
+   "tickets": 46,
+   "quantity": 46,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-09-26",
+   "hour": 19,
+   "tickets": 33,
+   "quantity": 33,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-09-19",
+   "hour": 12,
+   "tickets": 62,
+   "quantity": 58,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-09-19",
+   "hour": 13,
+   "tickets": 50,
+   "quantity": 46,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-09-19",
+   "hour": 19,
+   "tickets": 37,
+   "quantity": 33,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-09-12",
+   "hour": 12,
+   "tickets": 66,
+   "quantity": 58,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-09-12",
+   "hour": 13,
+   "tickets": 54,
+   "quantity": 46,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-09-12",
+   "hour": 19,
+   "tickets": 41,
+   "quantity": 33,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-09-05",
+   "hour": 12,
+   "tickets": 58,
+   "quantity": 58,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-09-05",
+   "hour": 13,
+   "tickets": 46,
+   "quantity": 46,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-09-05",
+   "hour": 19,
+   "tickets": 33,
+   "quantity": 33,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-08-29",
+   "hour": 12,
+   "tickets": 62,
+   "quantity": 58,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-08-29",
+   "hour": 13,
+   "tickets": 50,
+   "quantity": 46,
+   "revenue_excl_tax": 0
+  },
+  {
+   "site_ref": "takeaway",
+   "date": "2026-08-29",
+   "hour": 19,
+   "tickets": 37,
+   "quantity": 33,
+   "revenue_excl_tax": 0
+  }
+ ],
+ "settings": {
+  "as_of": "2026-10-20",
+  "service_time_minutes": 3
+ }
+}

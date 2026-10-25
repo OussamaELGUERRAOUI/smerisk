@@ -1,0 +1,190 @@
+{
+ "sales": [
+  {
+   "site_ref": "bakery",
+   "date": "2026-10-19",
+   "product_ref": "quiche",
+   "quantity": 42,
+   "revenue_excl_tax": 273.0
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-10-19",
+   "product_ref": "tart",
+   "quantity": 12,
+   "revenue_excl_tax": 216
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-10-12",
+   "product_ref": "quiche",
+   "quantity": 38,
+   "revenue_excl_tax": 247.0
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-10-12",
+   "product_ref": "tart",
+   "quantity": 9,
+   "revenue_excl_tax": 162
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-10-05",
+   "product_ref": "quiche",
+   "quantity": 51,
+   "revenue_excl_tax": 331.5
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-10-05",
+   "product_ref": "tart",
+   "quantity": 14,
+   "revenue_excl_tax": 252
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-09-28",
+   "product_ref": "quiche",
+   "quantity": 45,
+   "revenue_excl_tax": 292.5
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-09-28",
+   "product_ref": "tart",
+   "quantity": 10,
+   "revenue_excl_tax": 180
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-09-21",
+   "product_ref": "quiche",
+   "quantity": 40,
+   "revenue_excl_tax": 260.0
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-09-21",
+   "product_ref": "tart",
+   "quantity": 11,
+   "revenue_excl_tax": 198
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-09-14",
+   "product_ref": "quiche",
+   "quantity": 47,
+   "revenue_excl_tax": 305.5
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-09-14",
+   "product_ref": "tart",
+   "quantity": 13,
+   "revenue_excl_tax": 234
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-09-07",
+   "product_ref": "quiche",
+   "quantity": 39,
+   "revenue_excl_tax": 253.5
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-09-07",
+   "product_ref": "tart",
+   "quantity": 8,
+   "revenue_excl_tax": 144
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-08-31",
+   "product_ref": "quiche",
+   "quantity": 55,
+   "revenue_excl_tax": 357.5
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-08-31",
+   "product_ref": "tart",
+   "quantity": 15,
+   "revenue_excl_tax": 270
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-08-24",
+   "product_ref": "quiche",
+   "quantity": 44,
+   "revenue_excl_tax": 286.0
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-08-24",
+   "product_ref": "tart",
+   "quantity": 12,
+   "revenue_excl_tax": 216
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-08-17",
+   "product_ref": "quiche",
+   "quantity": 41,
+   "revenue_excl_tax": 266.5
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-08-17",
+   "product_ref": "tart",
+   "quantity": 10,
+   "revenue_excl_tax": 180
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-08-10",
+   "product_ref": "quiche",
+   "quantity": 48,
+   "revenue_excl_tax": 312.0
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-08-10",
+   "product_ref": "tart",
+   "quantity": 9,
+   "revenue_excl_tax": 162
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-08-03",
+   "product_ref": "quiche",
+   "quantity": 36,
+   "revenue_excl_tax": 234.0
+  },
+  {
+   "site_ref": "bakery",
+   "date": "2026-08-03",
+   "product_ref": "tart",
+   "quantity": 11,
+   "revenue_excl_tax": 198
+  }
+ ],
+ "products": [
+  {
+   "product_ref": "quiche",
+   "unit_price": 6.5,
+   "unit_cost": 2.2,
+   "salvage_value": 0.5,
+   "current_order_quantity": 50
+  },
+  {
+   "product_ref": "tart",
+   "unit_price": 18,
+   "unit_cost": 7
+  }
+ ],
+ "settings": {
+  "as_of": "2026-10-20",
+  "weekday": 0
+ }
+}

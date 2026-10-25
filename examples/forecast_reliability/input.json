@@ -1,0 +1,179 @@
+{
+ "forecast_log": [
+  {
+   "forecast_ref": "deal-0",
+   "made_at": "2026-03-02",
+   "target": "signature",
+   "kind": "PROBABILITY",
+   "p": 0.9,
+   "outcome": 1
+  },
+  {
+   "forecast_ref": "deal-1",
+   "made_at": "2026-03-02",
+   "target": "signature",
+   "kind": "PROBABILITY",
+   "p": 0.8,
+   "outcome": 1
+  },
+  {
+   "forecast_ref": "deal-2",
+   "made_at": "2026-03-02",
+   "target": "signature",
+   "kind": "PROBABILITY",
+   "p": 0.7,
+   "outcome": 0
+  },
+  {
+   "forecast_ref": "deal-3",
+   "made_at": "2026-03-02",
+   "target": "signature",
+   "kind": "PROBABILITY",
+   "p": 0.6,
+   "outcome": 1
+  },
+  {
+   "forecast_ref": "deal-4",
+   "made_at": "2026-03-02",
+   "target": "signature",
+   "kind": "PROBABILITY",
+   "p": 0.3,
+   "outcome": 0
+  },
+  {
+   "forecast_ref": "deal-5",
+   "made_at": "2026-03-02",
+   "target": "signature",
+   "kind": "PROBABILITY",
+   "p": 0.2,
+   "outcome": 0
+  },
+  {
+   "forecast_ref": "deal-6",
+   "made_at": "2026-03-02",
+   "target": "signature",
+   "kind": "PROBABILITY",
+   "p": 0.4,
+   "outcome": 1
+  },
+  {
+   "forecast_ref": "deal-7",
+   "made_at": "2026-03-02",
+   "target": "signature",
+   "kind": "PROBABILITY",
+   "p": 0.1,
+   "outcome": 0
+  },
+  {
+   "forecast_ref": "cash-1",
+   "made_at": "2025-01-01",
+   "target": "cash floor",
+   "kind": "INTERVAL",
+   "lower": 20000,
+   "level": 0.95,
+   "outcome": 26000
+  },
+  {
+   "forecast_ref": "cash-2",
+   "made_at": "2025-02-01",
+   "target": "cash floor",
+   "kind": "INTERVAL",
+   "lower": 20000,
+   "level": 0.95,
+   "outcome": 26000
+  },
+  {
+   "forecast_ref": "cash-3",
+   "made_at": "2025-03-01",
+   "target": "cash floor",
+   "kind": "INTERVAL",
+   "lower": 20000,
+   "level": 0.95,
+   "outcome": 18500
+  },
+  {
+   "forecast_ref": "cash-4",
+   "made_at": "2025-04-01",
+   "target": "cash floor",
+   "kind": "INTERVAL",
+   "lower": 20000,
+   "level": 0.95,
+   "outcome": 26000
+  },
+  {
+   "forecast_ref": "cash-5",
+   "made_at": "2025-05-01",
+   "target": "cash floor",
+   "kind": "INTERVAL",
+   "lower": 20000,
+   "level": 0.95,
+   "outcome": 26000
+  },
+  {
+   "forecast_ref": "cash-6",
+   "made_at": "2025-06-01",
+   "target": "cash floor",
+   "kind": "INTERVAL",
+   "lower": 20000,
+   "level": 0.95,
+   "outcome": 26000
+  },
+  {
+   "forecast_ref": "cash-7",
+   "made_at": "2025-07-01",
+   "target": "cash floor",
+   "kind": "INTERVAL",
+   "lower": 20000,
+   "level": 0.95,
+   "outcome": 26000
+  },
+  {
+   "forecast_ref": "cash-8",
+   "made_at": "2025-08-01",
+   "target": "cash floor",
+   "kind": "INTERVAL",
+   "lower": 20000,
+   "level": 0.95,
+   "outcome": 18500
+  },
+  {
+   "forecast_ref": "cash-9",
+   "made_at": "2025-09-01",
+   "target": "cash floor",
+   "kind": "INTERVAL",
+   "lower": 20000,
+   "level": 0.95,
+   "outcome": 26000
+  },
+  {
+   "forecast_ref": "cash-10",
+   "made_at": "2025-10-01",
+   "target": "cash floor",
+   "kind": "INTERVAL",
+   "lower": 20000,
+   "level": 0.95,
+   "outcome": 26000
+  },
+  {
+   "forecast_ref": "cash-11",
+   "made_at": "2025-11-01",
+   "target": "cash floor",
+   "kind": "INTERVAL",
+   "lower": 20000,
+   "level": 0.95,
+   "outcome": 18500
+  },
+  {
+   "forecast_ref": "cash-12",
+   "made_at": "2025-12-01",
+   "target": "cash floor",
+   "kind": "INTERVAL",
+   "lower": 20000,
+   "level": 0.95,
+   "outcome": 26000
+  }
+ ],
+ "settings": {
+  "as_of": "2026-10-20"
+ }
+}

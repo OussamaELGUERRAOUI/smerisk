@@ -1,0 +1,2909 @@
+{
+ "payslips": [
+  {
+   "employee_ref": "e0",
+   "period": "2024-10",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2024-10",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2024-10",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2024-10",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2024-10",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2024-10",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2024-10",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2024-10",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2024-10",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2024-10",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2024-11",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2024-11",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2024-11",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2024-11",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2024-11",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2024-11",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2024-11",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2024-11",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2024-11",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2024-11",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2024-12",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2024-12",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2024-12",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2024-12",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2024-12",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2024-12",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2024-12",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2024-12",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2024-12",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2024-12",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2025-01",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2025-01",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2025-01",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2025-01",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2025-01",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2025-01",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2025-01",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2025-01",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2025-01",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2025-01",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2025-02",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2025-02",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2025-02",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2025-02",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2025-02",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2025-02",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2025-02",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2025-02",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2025-02",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2025-02",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2025-03",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2025-03",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2025-03",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2025-03",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2025-03",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2025-03",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2025-03",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2025-03",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2025-03",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2025-03",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2025-04",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2025-04",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2025-04",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2025-04",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2025-04",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2025-04",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2025-04",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2025-04",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2025-04",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2025-04",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2025-05",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2025-05",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2025-05",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2025-05",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2025-05",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2025-05",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2025-05",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2025-05",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2025-05",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2025-05",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2025-06",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2025-06",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2025-06",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2025-06",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2025-06",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2025-06",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2025-06",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2025-06",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2025-06",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2025-06",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2025-07",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2025-07",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2025-07",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2025-07",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2025-07",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2025-07",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2025-07",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2025-07",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2025-07",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2025-07",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2025-08",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2025-08",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2025-08",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2025-08",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2025-08",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2025-08",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2025-08",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2025-08",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2025-08",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2025-08",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2025-09",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2025-09",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2025-09",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2025-09",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2025-09",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2025-09",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2025-09",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2025-09",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2025-09",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2025-09",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2025-10",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2025-10",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2025-10",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2025-10",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2025-10",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2025-10",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2025-10",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2025-10",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2025-10",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2025-10",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2025-11",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2025-11",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2025-11",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2025-11",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2025-11",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2025-11",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2025-11",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2025-11",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2025-11",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2025-11",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2025-12",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2025-12",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2025-12",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2025-12",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2025-12",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2025-12",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2025-12",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2025-12",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2025-12",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2025-12",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2026-01",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2026-01",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2026-01",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2026-01",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2026-01",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2026-01",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2026-01",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2026-01",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2026-01",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2026-01",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2026-02",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2026-02",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2026-02",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2026-02",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2026-02",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2026-02",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2026-02",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2026-02",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2026-02",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2026-02",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2026-03",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2026-03",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2026-03",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2026-03",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2026-03",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2026-03",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2026-03",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2026-03",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2026-03",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2026-03",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2026-04",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2026-04",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2026-04",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2026-04",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2026-04",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2026-04",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2026-04",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2026-04",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2026-04",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2026-04",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2026-05",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2026-05",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2026-05",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2026-05",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2026-05",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2026-05",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2026-05",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2026-05",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2026-05",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2026-05",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2026-06",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2026-06",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2026-06",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2026-06",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2026-06",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2026-06",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2026-06",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2026-06",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2026-06",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2026-06",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2026-07",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2026-07",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2026-07",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2026-07",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2026-07",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2026-07",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2026-07",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2026-07",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2026-07",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2026-07",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2026-08",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2026-08",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2026-08",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2026-08",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2026-08",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2026-08",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2026-08",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2026-08",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2026-08",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2026-08",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e0",
+   "period": "2026-09",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e1",
+   "period": "2026-09",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e2",
+   "period": "2026-09",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e3",
+   "period": "2026-09",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e4",
+   "period": "2026-09",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e5",
+   "period": "2026-09",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 240,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e6",
+   "period": "2026-09",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 280,
+    "sick_pay": 0
+   }
+  },
+  {
+   "employee_ref": "e7",
+   "period": "2026-09",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 120,
+    "sick_pay": 120
+   }
+  },
+  {
+   "employee_ref": "e8",
+   "period": "2026-09",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 160,
+    "sick_pay": 60
+   }
+  },
+  {
+   "employee_ref": "e9",
+   "period": "2026-09",
+   "gross": 2600,
+   "employer_contributions": 730,
+   "employer_cost": 3330,
+   "by_family": {
+    "base": 2300,
+    "overtime": 200,
+    "sick_pay": 0
+   }
+  }
+ ],
+ "payroll_baseline": [
+  {
+   "period": "2026-11",
+   "fixed_cost": 30000
+  },
+  {
+   "period": "2026-12",
+   "fixed_cost": 30000,
+   "planned_hires": [
+    {
+     "start_period": "2026-12",
+     "monthly_cost": 3200
+    }
+   ]
+  },
+  {
+   "period": "2027-01",
+   "fixed_cost": 30600
+  }
+ ],
+ "settings": {
+  "as_of": "2026-10-20",
+  "seed": 7,
+  "n_simulations": 5000
+ }
+}

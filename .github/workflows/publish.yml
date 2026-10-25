@@ -1,0 +1,75 @@
+name: Publish
+
+on:
+  push:
+    tags: ["v*.*.*"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - name: Check that the tag matches the version
+        run: |
+          version=$(uv run python -c "import smerisk; print(smerisk.__version__)")
+          test "v$version" = "${GITHUB_REF_NAME}"
+      - run: uv sync --locked && uv run pytest
+      # Only the library goes to PyPI; the service is run from a clone of the repository (docs/service.md).
+      - run: uv build --package smerisk --out-dir dist
+      - uses: actions/upload-artifact@v4
+        with:
+          name: dist
+          path: dist/
+
+  testpypi:
+    needs: build
+    runs-on: ubuntu-latest
+    environment: testpypi
+    permissions:
+      id-token: write  # trusted publishing, no stored token
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: dist
+          path: dist/
+      - uses: pypa/gh-action-pypi-publish@release/v1
+        with:
+          repository-url: https://test.pypi.org/legacy/
+
+  pypi:
+    needs: testpypi
+    runs-on: ubuntu-latest
+    environment: pypi
+    permissions:
+      id-token: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: dist
+          path: dist/
+      - uses: pypa/gh-action-pypi-publish@release/v1
+
+  docker:
+    needs: pypi
+    # The service image is published once its routes exist: set the repository variable PUBLISH_SERVICE to true.
+    if: ${{ vars.PUBLISH_SERVICE == 'true' }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: docker/login-action@v3
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+      - uses: docker/build-push-action@v6
+        with:
+          context: .
+          file: service/Dockerfile
+          push: true
+          tags: |
+            ghcr.io/${{ github.repository_owner }}/smerisk-service:${{ github.ref_name }}
+            ghcr.io/${{ github.repository_owner }}/smerisk-service:latest

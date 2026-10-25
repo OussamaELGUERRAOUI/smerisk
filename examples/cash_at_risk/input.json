@@ -1,0 +1,899 @@
+{
+ "bank_balances": [
+  {
+   "date": "2026-10-20",
+   "amount": 15000
+  }
+ ],
+ "invoices": [
+  {
+   "invoice_ref": "H0",
+   "customer_ref": "C0",
+   "issue_date": "2026-01-05",
+   "due_date": "2026-02-04",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-02-04",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H1",
+   "customer_ref": "C1",
+   "issue_date": "2026-01-09",
+   "due_date": "2026-02-08",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-02-08",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H2",
+   "customer_ref": "C2",
+   "issue_date": "2026-01-13",
+   "due_date": "2026-02-12",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-02-14",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H3",
+   "customer_ref": "C3",
+   "issue_date": "2026-01-17",
+   "due_date": "2026-02-16",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-02-16",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H4",
+   "customer_ref": "C0",
+   "issue_date": "2026-01-21",
+   "due_date": "2026-02-20",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-03-10",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H5",
+   "customer_ref": "C1",
+   "issue_date": "2026-01-25",
+   "due_date": "2026-02-24",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-02-24",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H6",
+   "customer_ref": "C2",
+   "issue_date": "2026-01-29",
+   "due_date": "2026-02-28",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-04-14",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H7",
+   "customer_ref": "C3",
+   "issue_date": "2026-02-02",
+   "due_date": "2026-03-04",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-03-04",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H8",
+   "customer_ref": "C0",
+   "issue_date": "2026-02-06",
+   "due_date": "2026-03-08",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-03-11",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H9",
+   "customer_ref": "C1",
+   "issue_date": "2026-02-10",
+   "due_date": "2026-03-12",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-05-21",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H10",
+   "customer_ref": "C2",
+   "issue_date": "2026-02-14",
+   "due_date": "2026-03-16",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-03-16",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H11",
+   "customer_ref": "C3",
+   "issue_date": "2026-02-18",
+   "due_date": "2026-03-20",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-03-20",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H12",
+   "customer_ref": "C0",
+   "issue_date": "2026-02-22",
+   "due_date": "2026-03-24",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-03-26",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H13",
+   "customer_ref": "C1",
+   "issue_date": "2026-02-26",
+   "due_date": "2026-03-28",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-03-28",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H14",
+   "customer_ref": "C2",
+   "issue_date": "2026-03-02",
+   "due_date": "2026-04-01",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-04-19",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H15",
+   "customer_ref": "C3",
+   "issue_date": "2026-03-06",
+   "due_date": "2026-04-05",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-04-05",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H16",
+   "customer_ref": "C0",
+   "issue_date": "2026-03-10",
+   "due_date": "2026-04-09",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-05-24",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H17",
+   "customer_ref": "C1",
+   "issue_date": "2026-03-14",
+   "due_date": "2026-04-13",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-04-13",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H18",
+   "customer_ref": "C2",
+   "issue_date": "2026-03-18",
+   "due_date": "2026-04-17",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-04-20",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H19",
+   "customer_ref": "C3",
+   "issue_date": "2026-03-22",
+   "due_date": "2026-04-21",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-06-30",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H20",
+   "customer_ref": "C0",
+   "issue_date": "2026-03-26",
+   "due_date": "2026-04-25",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-04-25",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H21",
+   "customer_ref": "C1",
+   "issue_date": "2026-03-30",
+   "due_date": "2026-04-29",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-04-29",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H22",
+   "customer_ref": "C2",
+   "issue_date": "2026-04-03",
+   "due_date": "2026-05-03",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-05-05",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H23",
+   "customer_ref": "C3",
+   "issue_date": "2026-04-07",
+   "due_date": "2026-05-07",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-05-07",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H24",
+   "customer_ref": "C0",
+   "issue_date": "2026-04-11",
+   "due_date": "2026-05-11",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-05-29",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H25",
+   "customer_ref": "C1",
+   "issue_date": "2026-04-15",
+   "due_date": "2026-05-15",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-05-15",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H26",
+   "customer_ref": "C2",
+   "issue_date": "2026-04-19",
+   "due_date": "2026-05-19",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-07-03",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H27",
+   "customer_ref": "C3",
+   "issue_date": "2026-04-23",
+   "due_date": "2026-05-23",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-05-23",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H28",
+   "customer_ref": "C0",
+   "issue_date": "2026-04-27",
+   "due_date": "2026-05-27",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-05-30",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H29",
+   "customer_ref": "C1",
+   "issue_date": "2026-05-01",
+   "due_date": "2026-05-31",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-08-09",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H30",
+   "customer_ref": "C2",
+   "issue_date": "2026-05-05",
+   "due_date": "2026-06-04",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-06-04",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H31",
+   "customer_ref": "C3",
+   "issue_date": "2026-05-09",
+   "due_date": "2026-06-08",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-06-08",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H32",
+   "customer_ref": "C0",
+   "issue_date": "2026-05-13",
+   "due_date": "2026-06-12",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-06-14",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H33",
+   "customer_ref": "C1",
+   "issue_date": "2026-05-17",
+   "due_date": "2026-06-16",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-06-16",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H34",
+   "customer_ref": "C2",
+   "issue_date": "2026-05-21",
+   "due_date": "2026-06-20",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-07-08",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H35",
+   "customer_ref": "C3",
+   "issue_date": "2026-05-25",
+   "due_date": "2026-06-24",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-06-24",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H36",
+   "customer_ref": "C0",
+   "issue_date": "2026-05-29",
+   "due_date": "2026-06-28",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-08-12",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H37",
+   "customer_ref": "C1",
+   "issue_date": "2026-06-02",
+   "due_date": "2026-07-02",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-07-02",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H38",
+   "customer_ref": "C2",
+   "issue_date": "2026-06-06",
+   "due_date": "2026-07-06",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-07-09",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H39",
+   "customer_ref": "C3",
+   "issue_date": "2026-06-10",
+   "due_date": "2026-07-10",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-09-18",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H40",
+   "customer_ref": "C0",
+   "issue_date": "2026-06-14",
+   "due_date": "2026-07-14",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-07-14",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H41",
+   "customer_ref": "C1",
+   "issue_date": "2026-06-18",
+   "due_date": "2026-07-18",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-07-18",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H42",
+   "customer_ref": "C2",
+   "issue_date": "2026-06-22",
+   "due_date": "2026-07-22",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-07-24",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H43",
+   "customer_ref": "C3",
+   "issue_date": "2026-06-26",
+   "due_date": "2026-07-26",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-07-26",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H44",
+   "customer_ref": "C0",
+   "issue_date": "2026-06-30",
+   "due_date": "2026-07-30",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-08-17",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H45",
+   "customer_ref": "C1",
+   "issue_date": "2026-07-04",
+   "due_date": "2026-08-03",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-08-03",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H46",
+   "customer_ref": "C2",
+   "issue_date": "2026-07-08",
+   "due_date": "2026-08-07",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-09-21",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H47",
+   "customer_ref": "C3",
+   "issue_date": "2026-07-12",
+   "due_date": "2026-08-11",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-08-11",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H48",
+   "customer_ref": "C0",
+   "issue_date": "2026-07-16",
+   "due_date": "2026-08-15",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-08-18",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H49",
+   "customer_ref": "C1",
+   "issue_date": "2026-07-20",
+   "due_date": "2026-08-19",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-10-28",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H50",
+   "customer_ref": "C2",
+   "issue_date": "2026-07-24",
+   "due_date": "2026-08-23",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-08-23",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H51",
+   "customer_ref": "C3",
+   "issue_date": "2026-07-28",
+   "due_date": "2026-08-27",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-08-27",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H52",
+   "customer_ref": "C0",
+   "issue_date": "2026-08-01",
+   "due_date": "2026-08-31",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-09-02",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H53",
+   "customer_ref": "C1",
+   "issue_date": "2026-08-05",
+   "due_date": "2026-09-04",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-09-04",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H54",
+   "customer_ref": "C2",
+   "issue_date": "2026-08-09",
+   "due_date": "2026-09-08",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-09-26",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H55",
+   "customer_ref": "C3",
+   "issue_date": "2026-08-13",
+   "due_date": "2026-09-12",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-09-12",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H56",
+   "customer_ref": "C0",
+   "issue_date": "2026-08-17",
+   "due_date": "2026-09-16",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-10-31",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H57",
+   "customer_ref": "C1",
+   "issue_date": "2026-08-21",
+   "due_date": "2026-09-20",
+   "amount": 3000,
+   "customer_sector": "retail",
+   "payments": [
+    {
+     "date": "2026-09-20",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H58",
+   "customer_ref": "C2",
+   "issue_date": "2026-08-25",
+   "due_date": "2026-09-24",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-09-27",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "H59",
+   "customer_ref": "C3",
+   "issue_date": "2026-08-29",
+   "due_date": "2026-09-28",
+   "amount": 3000,
+   "customer_sector": "industry",
+   "payments": [
+    {
+     "date": "2026-12-07",
+     "amount": 3000
+    }
+   ]
+  },
+  {
+   "invoice_ref": "O1",
+   "customer_ref": "C0",
+   "issue_date": "2026-10-01",
+   "due_date": "2026-10-31",
+   "amount": 12000,
+   "customer_sector": "retail"
+  },
+  {
+   "invoice_ref": "O2",
+   "customer_ref": "C1",
+   "issue_date": "2026-10-05",
+   "due_date": "2026-11-04",
+   "amount": 9000,
+   "customer_sector": "retail"
+  },
+  {
+   "invoice_ref": "O3",
+   "customer_ref": "C2",
+   "issue_date": "2026-08-20",
+   "due_date": "2026-09-19",
+   "amount": 6000,
+   "customer_sector": "industry"
+  }
+ ],
+ "scheduled_flows": [
+  {
+   "date": "2026-10-30",
+   "amount": 21000,
+   "direction": "OUT",
+   "category": "payroll"
+  },
+  {
+   "date": "2026-11-15",
+   "amount": 7500,
+   "direction": "OUT",
+   "category": "tax"
+  },
+  {
+   "date": "2026-11-30",
+   "amount": 21000,
+   "direction": "OUT",
+   "category": "payroll"
+  }
+ ],
+ "settings": {
+  "as_of": "2026-10-20",
+  "seed": 5,
+  "n_simulations": 5000
+ }
+}

@@ -1,0 +1,2407 @@
+{
+ "ledger_entries": [
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "0",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 192.68,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "1",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 248.58,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "2",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 8763.49,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "3",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 59.67,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "4",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1996.65,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "5",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 4849.33,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "6",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 115.8,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "7",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 46.28,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "8",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 211.3,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "9",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 2966.87,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "10",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1537.44,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "11",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 89.16,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "12",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 627.9,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "13",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 3220.27,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "14",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 586.62,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "15",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 2509.3,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "16",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 25252.7,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "17",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 3541.56,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "18",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 473.01,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "19",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 115.28,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "20",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 345.05,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "21",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1079.44,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "22",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 14915.17,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "23",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 6709.53,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "24",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 284.73,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "25",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 18734.87,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "26",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 817.96,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "27",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 3813.09,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "28",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 66.32,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "29",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 65.11,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "30",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 127.56,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "31",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 14234.72,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "32",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 3462.86,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "33",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 11161.15,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "34",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 2712.12,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "35",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 524.36,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "36",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1121.33,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "37",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1906.91,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "38",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 12199.83,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "39",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 652.47,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "40",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 15021.74,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "41",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 2193.57,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "42",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 9729.0,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "43",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 986.66,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "44",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 3780.54,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "45",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 328.91,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "46",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1170.81,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "47",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 140.82,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "48",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 63.4,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "49",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 41.29,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "50",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 4035.05,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "51",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 740.1,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "52",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 15602.8,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "53",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 10128.6,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "54",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 452.15,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "55",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 26365.52,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "56",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1888.8,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "57",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 6275.52,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "58",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 526.72,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "59",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 122.61,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "60",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 103.59,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "61",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 110.57,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "62",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 2048.41,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "63",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 68.85,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "64",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 36.29,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "65",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 9976.79,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "66",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 62.84,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "67",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 710.81,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "68",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 923.63,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "69",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 2295.18,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "70",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1028.12,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "71",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 20513.01,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "72",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 5638.84,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "73",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1672.63,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "74",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 2248.1,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "75",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1046.3,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "76",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 24790.51,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "77",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 151.31,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "78",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 3690.47,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "79",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1463.15,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "80",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 42.27,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "81",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 244.6,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "82",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 19120.57,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "83",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 7139.94,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "84",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 34.55,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "85",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 245.4,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "86",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 33.84,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "87",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 9602.87,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "88",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 67.78,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "89",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 47.03,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "90",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 27902.94,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "91",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 688.03,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "92",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 285.22,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "93",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 44.36,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "94",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 466.43,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "95",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 396.38,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "96",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1176.09,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "97",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 33.14,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "98",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 87.88,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "99",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 134.79,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "100",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 663.0,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "101",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 255.22,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "102",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 2187.68,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "103",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 227.14,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "104",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 16939.44,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "105",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 24300.2,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "106",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 47.68,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "107",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 134.02,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "108",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1545.5,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "109",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 6486.06,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "110",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 49.21,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "111",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 113.35,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "112",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 741.58,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "113",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 3206.8,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "114",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 16217.5,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "115",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 12615.92,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "116",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 7607.93,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "117",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 45.52,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "118",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 26909.74,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "119",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 2207.41,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "120",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 57.33,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "121",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 183.99,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "122",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 2302.83,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "123",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 453.86,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "124",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 691.53,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "125",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 8198.89,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "126",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 9377.63,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "127",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1381.53,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "128",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 7539.69,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "129",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 522.41,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "130",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 26512.18,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "131",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 2067.65,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "132",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 25298.45,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "133",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 42.85,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "134",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 14063.0,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "135",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1507.06,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "136",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 4374.39,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "137",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 119.61,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "138",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1399.83,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "139",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 233.26,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "140",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 65.53,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "141",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 32.33,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "142",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 16615.75,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "143",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 3256.21,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "144",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 130.34,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "145",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 187.7,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "146",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 788.47,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "147",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 9012.84,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "148",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 71.27,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "149",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 25313.63,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "150",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 21465.07,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "151",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 171.39,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "152",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 2644.51,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "153",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 380.45,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "154",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 3908.14,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "155",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 57.64,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "156",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 812.64,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "157",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1842.78,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "158",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 2395.67,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "159",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 3787.79,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "160",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 14932.9,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "161",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 167.4,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "162",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 91.11,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "163",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 469.7,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "164",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1608.73,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "165",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 24076.11,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "166",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 4280.72,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "167",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 5191.92,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "168",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 26190.94,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "169",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 201.02,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "170",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 189.84,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "171",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 585.63,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "172",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 243.37,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "173",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 2839.95,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "174",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 22653.84,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "175",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 91.31,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "176",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1131.99,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "177",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 3409.84,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "178",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 953.97,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "179",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 17427.36,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "180",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 5136.82,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "181",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 14012.98,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "182",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 68.44,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "183",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 122.26,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "184",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 49.79,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "185",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 9726.54,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "186",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 24459.97,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "187",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 34.83,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "188",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 7374.98,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "189",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 4824.96,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "190",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 16771.05,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "191",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 204.72,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "192",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 4408.91,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "193",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 163.03,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "194",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 53.47,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "195",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 5440.17,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "196",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 42.33,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "197",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 3969.93,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "198",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 224.07,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "199",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 916.79,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "200",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 14948.56,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "201",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 169.91,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "202",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 803.48,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "203",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 367.41,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "204",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 117.8,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "205",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 833.59,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "206",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 110.89,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "207",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 7889.01,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "208",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 2210.37,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "209",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 223.56,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "210",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 26261.23,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "211",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 343.42,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "212",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 3264.15,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "213",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 5008.08,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "214",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 197.55,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "215",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 34.3,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "216",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 15060.79,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "217",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 23401.81,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "218",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 102.49,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "219",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 91.37,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "220",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 628.06,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "221",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1962.04,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "222",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 29305.42,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "223",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 24574.71,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "224",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 29077.6,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "225",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 172.47,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "226",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1979.93,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "227",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 642.11,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "228",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 156.39,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "229",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 49.67,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "230",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 101.43,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "231",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 376.14,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "232",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 58.09,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "233",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 89.58,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "234",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 43.05,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "235",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 2337.32,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "236",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 950.93,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "237",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 170.08,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "238",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1199.63,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "239",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 593.39,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "240",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 3002.34,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "241",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 19861.03,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "242",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 362.97,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "243",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 2725.55,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "244",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 143.47,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "245",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 20878.45,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "246",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 2254.64,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "247",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 94.68,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "248",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 186.7,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "249",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 94.94,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "250",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 108.99,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "251",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 263.27,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "252",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 9315.61,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "253",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 743.32,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "254",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 214.54,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "255",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 571.78,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "256",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 200.54,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "257",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 5023.97,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "258",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 47.46,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "259",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 233.18,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "260",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 294.94,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "261",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 110.8,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "262",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 5181.64,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "263",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 109.84,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "264",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 252.03,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "265",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 46.71,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "266",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 5844.63,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "267",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 390.47,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "268",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 2936.2,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "269",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 141.81,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "270",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 36.76,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "271",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 293.26,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "272",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 6873.72,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "273",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 10288.15,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "274",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 351.98,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "275",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 10985.56,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "276",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 44.78,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "277",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 1165.05,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "278",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 187.18,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "279",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 656.5,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "280",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 146.19,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "281",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 15160.02,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "282",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 254.99,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "283",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 21670.84,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "284",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 67.18,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "285",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 615.88,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "286",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 676.6,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "287",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 4249.17,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "288",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 342.82,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "289",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 949.48,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "290",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 51.45,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "291",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 271.08,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "292",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 4731.0,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "293",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 65.73,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "294",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 771.98,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "295",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 162.25,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "296",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 99.19,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "297",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 73.1,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "298",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 8741.74,
+   "Credit": 0
+  },
+  {
+   "JournalCode": "AC",
+   "EcritureNum": "299",
+   "EcritureDate": "20260315",
+   "CompteNum": "606100",
+   "Debit": 3630.54,
+   "Credit": 0
+  }
+ ],
+ "settings": {
+  "as_of": "2026-10-20"
+ }
+}

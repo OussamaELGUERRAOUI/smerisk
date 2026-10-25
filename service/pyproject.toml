@@ -1,0 +1,29 @@
+[build-system]
+requires = ["hatchling>=1.25"]
+build-backend = "hatchling.build"
+
+[project]
+name = "smerisk-service"
+dynamic = ["version"]
+description = "HTTP service (FastAPI) exposing the smerisk library under /v1."
+readme = "README.md"
+license = "Apache-2.0"
+requires-python = ">=3.11"
+dependencies = [
+    "smerisk",  # installed from the same clone: pip install ./ ./service
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.30",
+    "pydantic-settings>=2.4",
+    "cryptography>=43",
+    "python-multipart>=0.0.9",
+]
+
+[tool.hatch.version]
+# One version for the library and the service, written only in src/smerisk/_version.py.
+path = "../src/smerisk/_version.py"
+
+[tool.hatch.build.targets.wheel]
+packages = ["smerisk_service"]
+
+[tool.uv.sources]
+smerisk = { workspace = true }

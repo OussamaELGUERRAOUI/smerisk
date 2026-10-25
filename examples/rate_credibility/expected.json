@@ -1,0 +1,370 @@
+{
+ "result": {
+  "groups": [
+   {
+    "id": "lille",
+    "exposure": 5292.0,
+    "observed_mean": 0.07961073318216176,
+    "credibility": 0.5695221696082652,
+    "estimate": 0.06686396900559621
+   },
+   {
+    "id": "lyon",
+    "exposure": 17640.0,
+    "observed_mean": 0.04456916099773242,
+    "credibility": 0.8151571164510166,
+    "estimate": 0.045573012939001845
+   },
+   {
+    "id": "nantes",
+    "exposure": 2646.0,
+    "observed_mean": 0.030007558578987154,
+    "credibility": 0.3981342160698164,
+    "estimate": 0.042040325007523326
+   }
+  ],
+  "parameters": {
+   "mu": 0.05,
+   "v": null,
+   "a": null,
+   "k": 4000.0
+  }
+ },
+ "assumptions": {
+  "as_of": "2026-10-20",
+  "seed": null,
+  "indicator": "absenteeism",
+  "history_months": 24,
+  "group_by": null,
+  "reference_mean": 0.05,
+  "credibility_constant": 4000.0,
+  "mode": "reference",
+  "min_groups": 5,
+  "estimators": null,
+  "rate": "absence days / theoretical days",
+  "months": [
+   "2024-10",
+   "2026-09"
+  ]
+ },
+ "warnings": [],
+ "meta": {
+  "library_version": "0.1.0.dev0",
+  "method": "rate-credibility"
+ },
+ "derived_parameters": {
+  "groups": {
+   "value": [
+    {
+     "id": "lille",
+     "observations": [
+      {
+       "value": 0.07182539682539683,
+       "weight": 252.0
+      },
+      {
+       "value": 0.08015873015873015,
+       "weight": 252.0
+      },
+      {
+       "value": 0.08809523809523809,
+       "weight": 252.0
+      },
+      {
+       "value": 0.09603174603174602,
+       "weight": 252.0
+      },
+      {
+       "value": 0.0638888888888889,
+       "weight": 252.0
+      },
+      {
+       "value": 0.07182539682539683,
+       "weight": 252.0
+      },
+      {
+       "value": 0.08015873015873015,
+       "weight": 252.0
+      },
+      {
+       "value": 0.08809523809523809,
+       "weight": 252.0
+      },
+      {
+       "value": 0.09603174603174602,
+       "weight": 252.0
+      },
+      {
+       "value": 0.0638888888888889,
+       "weight": 252.0
+      },
+      {
+       "value": 0.07182539682539683,
+       "weight": 252.0
+      },
+      {
+       "value": 0.08015873015873015,
+       "weight": 252.0
+      },
+      {
+       "value": 0.08809523809523809,
+       "weight": 252.0
+      },
+      {
+       "value": 0.09603174603174602,
+       "weight": 252.0
+      },
+      {
+       "value": 0.0638888888888889,
+       "weight": 252.0
+      },
+      {
+       "value": 0.07182539682539683,
+       "weight": 252.0
+      },
+      {
+       "value": 0.08015873015873015,
+       "weight": 252.0
+      },
+      {
+       "value": 0.08809523809523809,
+       "weight": 252.0
+      },
+      {
+       "value": 0.09603174603174602,
+       "weight": 252.0
+      },
+      {
+       "value": 0.0638888888888889,
+       "weight": 252.0
+      },
+      {
+       "value": 0.07182539682539683,
+       "weight": 252.0
+      }
+     ]
+    },
+    {
+     "id": "lyon",
+     "observations": [
+      {
+       "value": 0.03595238095238095,
+       "weight": 840.0
+      },
+      {
+       "value": 0.04047619047619048,
+       "weight": 840.0
+      },
+      {
+       "value": 0.045,
+       "weight": 840.0
+      },
+      {
+       "value": 0.049523809523809526,
+       "weight": 840.0
+      },
+      {
+       "value": 0.054047619047619046,
+       "weight": 840.0
+      },
+      {
+       "value": 0.03595238095238095,
+       "weight": 840.0
+      },
+      {
+       "value": 0.04047619047619048,
+       "weight": 840.0
+      },
+      {
+       "value": 0.045,
+       "weight": 840.0
+      },
+      {
+       "value": 0.049523809523809526,
+       "weight": 840.0
+      },
+      {
+       "value": 0.054047619047619046,
+       "weight": 840.0
+      },
+      {
+       "value": 0.03595238095238095,
+       "weight": 840.0
+      },
+      {
+       "value": 0.04047619047619048,
+       "weight": 840.0
+      },
+      {
+       "value": 0.045,
+       "weight": 840.0
+      },
+      {
+       "value": 0.049523809523809526,
+       "weight": 840.0
+      },
+      {
+       "value": 0.054047619047619046,
+       "weight": 840.0
+      },
+      {
+       "value": 0.03595238095238095,
+       "weight": 840.0
+      },
+      {
+       "value": 0.04047619047619048,
+       "weight": 840.0
+      },
+      {
+       "value": 0.045,
+       "weight": 840.0
+      },
+      {
+       "value": 0.049523809523809526,
+       "weight": 840.0
+      },
+      {
+       "value": 0.054047619047619046,
+       "weight": 840.0
+      },
+      {
+       "value": 0.03595238095238095,
+       "weight": 840.0
+      }
+     ]
+    },
+    {
+     "id": "nantes",
+     "observations": [
+      {
+       "value": 0.030158730158730156,
+       "weight": 126.0
+      },
+      {
+       "value": 0.03333333333333333,
+       "weight": 126.0
+      },
+      {
+       "value": 0.03571428571428571,
+       "weight": 126.0
+      },
+      {
+       "value": 0.023809523809523808,
+       "weight": 126.0
+      },
+      {
+       "value": 0.026984126984126982,
+       "weight": 126.0
+      },
+      {
+       "value": 0.030158730158730156,
+       "weight": 126.0
+      },
+      {
+       "value": 0.03333333333333333,
+       "weight": 126.0
+      },
+      {
+       "value": 0.03571428571428571,
+       "weight": 126.0
+      },
+      {
+       "value": 0.023809523809523808,
+       "weight": 126.0
+      },
+      {
+       "value": 0.026984126984126982,
+       "weight": 126.0
+      },
+      {
+       "value": 0.030158730158730156,
+       "weight": 126.0
+      },
+      {
+       "value": 0.03333333333333333,
+       "weight": 126.0
+      },
+      {
+       "value": 0.03571428571428571,
+       "weight": 126.0
+      },
+      {
+       "value": 0.023809523809523808,
+       "weight": 126.0
+      },
+      {
+       "value": 0.026984126984126982,
+       "weight": 126.0
+      },
+      {
+       "value": 0.030158730158730156,
+       "weight": 126.0
+      },
+      {
+       "value": 0.03333333333333333,
+       "weight": 126.0
+      },
+      {
+       "value": 0.03571428571428571,
+       "weight": 126.0
+      },
+      {
+       "value": 0.023809523809523808,
+       "weight": 126.0
+      },
+      {
+       "value": 0.026984126984126982,
+       "weight": 126.0
+      },
+      {
+       "value": 0.030158730158730156,
+       "weight": 126.0
+      }
+     ]
+    }
+   ],
+   "source": "estimated",
+   "method": "monthly rate = absence days / theoretical days, weighted by the denominator",
+   "n_points": 63,
+   "first": "2024-10",
+   "last": "2026-09"
+  },
+  "reference_mean": {
+   "value": 0.05,
+   "source": "override",
+   "method": "set by the caller",
+   "n_points": 0,
+   "first": null,
+   "last": null
+  },
+  "credibility_constant": {
+   "value": 4000.0,
+   "source": "default",
+   "method": "publisher value for absenteeism: fewer than 5 groups",
+   "n_points": 0,
+   "first": null,
+   "last": null
+  }
+ },
+ "data_quality": {
+  "coverage": {
+   "absence_months": {
+    "first": "2025-01",
+    "last": "2026-09"
+   }
+  },
+  "missing_periods": {},
+  "outliers": [],
+  "requirements": [
+   {
+    "parameter": "absence_months.months",
+    "minimum": 12,
+    "found": 21,
+    "met": true
+   }
+  ],
+  "ignored_records": [],
+  "ignored_counts": {},
+  "usable": true
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "fixed_price_projects": [
+  {
+   "project_ref": "website",
+   "price": 60000,
+   "cost_budget": 40000,
+   "deadline": "2026-12-11",
+   "remaining_tasks": [
+    {
+     "task_ref": "design",
+     "optimistic": 10,
+     "most_likely": 15,
+     "pessimistic": 25
+    },
+    {
+     "task_ref": "build",
+     "optimistic": 30,
+     "most_likely": 40,
+     "pessimistic": 65
+    },
+    {
+     "task_ref": "tests",
+     "optimistic": 5,
+     "most_likely": 8,
+     "pessimistic": 14
+    }
+   ],
+   "risks": [
+    {
+     "risk_ref": "api-change",
+     "probability": 0.3,
+     "impact_days_most_likely": 3,
+     "impact_days_max": 8
+    }
+   ],
+   "team": [
+    "k1",
+    "k2"
+   ]
+  }
+ ],
+ "consultants": [
+  {
+   "consultant_ref": "k1",
+   "daily_cost": 450
+  },
+  {
+   "consultant_ref": "k2",
+   "daily_cost": 550
+  }
+ ],
+ "timesheets": [
+  {
+   "consultant_ref": "k1",
+   "period": "2026-09",
+   "mission_ref": "website",
+   "billable_days": 12
+  }
+ ],
+ "settings": {
+  "as_of": "2026-10-20",
+  "seed": 42,
+  "n_simulations": 5000
+ }
+}
