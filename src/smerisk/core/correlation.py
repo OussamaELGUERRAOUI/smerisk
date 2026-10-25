@@ -77,13 +77,18 @@ def nearest_correlation(m: FloatArray) -> FloatArray:
     d = 1 / np.sqrt(np.diag(a))
     a = a * d[:, None] * d[None, :]
     np.fill_diagonal(a, 1.0)
-    return (a + a.T) / 2
+    return np.asarray((a + a.T) / 2, dtype=np.float64)
+
+
+def _cholesky(m: FloatArray) -> FloatArray:
+    # The explicit dtype keeps one type across numpy versions (their annotations of linalg differ).
+    return np.asarray(np.linalg.cholesky(m), dtype=np.float64)
 
 
 def prepare_correlation(spearman: FloatArray, max_adjustment: float = MAX_ADJUSTMENT) -> PreparedCorrelation:
     pearson = spearman_to_pearson(spearman)
     try:
-        return PreparedCorrelation(np.linalg.cholesky(pearson), spearman, 0.0)
+        return PreparedCorrelation(_cholesky(pearson), spearman, 0.0)
     except np.linalg.LinAlgError:
         pass
     adjusted = nearest_correlation(pearson)
@@ -96,4 +101,4 @@ def prepare_correlation(spearman: FloatArray, max_adjustment: float = MAX_ADJUST
             f"correlation matrix is not positive definite (smallest eigenvalue {min_eigenvalue:.4f})",
             {"min_eigenvalue": min_eigenvalue},
         )
-    return PreparedCorrelation(np.linalg.cholesky(adjusted), used, adjustment)
+    return PreparedCorrelation(_cholesky(adjusted), used, adjustment)

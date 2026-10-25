@@ -222,7 +222,7 @@ def _months(value: float | Distribution, rng: np.random.Generator, m: int, minim
     else:
         drawn = from_normal([value], rng.standard_normal((1, m)))[0]
     months = np.rint(drawn).astype(np.int32)
-    return months if minimum is None else np.maximum(months, minimum)
+    return np.asarray(months if minimum is None else np.maximum(months, minimum), dtype=np.int32)
 
 
 def _simulate(
