@@ -1,7 +1,11 @@
-# Parameter preparation
+---
+title: Parameter preparation from raw SME data
+description: How smerisk estimates model parameters from raw records, reports data quality, and accepts overrides.
+---
 
-**Status:** implemented (`smerisk.prepare`). The use cases that chain preparation and formulas are not implemented
-yet.
+# Parameter preparation from raw SME data
+
+**Status:** implemented (`smerisk.prepare`). The [use cases](reference.md#use-cases) that chain preparation and formulas are implemented.
 
 ## Purpose
 

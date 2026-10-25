@@ -1,4 +1,11 @@
-# `attrition`
+---
+title: Employee attrition and retention curves in Python
+description: Estimate the share of employees still present after 3, 6, 12 and 24 months from contract records, by group, with Kaplan-Meier.
+---
+
+# Employee attrition and retention curves in Python
+
+Function: `attrition`
 
 ## Purpose
 

@@ -1,4 +1,11 @@
-# `rate_credibility`
+---
+title: Credible absenteeism and turnover rates in Python
+description: Give each site or team a credible absenteeism or turnover rate from monthly records, using Bühlmann-Straub credibility.
+---
+
+# Credible absenteeism and turnover rates in Python
+
+Function: `rate_credibility`
 
 ## Purpose
 

@@ -1,4 +1,11 @@
-# `brier`
+---
+title: Brier score forecast calibration in Python
+description: Score probabilistic forecasts against observed outcomes with the Brier score and compare them with the naive base rate.
+---
+
+# Brier score forecast calibration in Python
+
+Function: `brier`
 
 ## Purpose
 

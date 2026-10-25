@@ -1,4 +1,9 @@
-# HTTP service
+---
+title: smerisk HTTP service (FastAPI)
+description: Run the smerisk HTTP service, call the formulas and use cases under /v1 from any language, and handle tokens, jobs and errors.
+---
+
+# smerisk HTTP service (FastAPI)
 
 The `smerisk-service` package (FastAPI) serves the formulas and the use cases under `/v1`. It calls the public
 functions of `smerisk` and contains no calculation.
@@ -28,7 +33,7 @@ docker run -p 8000:8000 -e SMERISK_API_TOKENS=token-of-app-1 smerisk-service
 ```
 
 On Windows PowerShell, set the tokens with `$env:SMERISK_API_TOKENS = "token-of-app-1"` before `uvicorn`. The
-[README](../README.md#running-the-http-service) gives each step for Linux, macOS, and Windows, and a first call to
+[README](https://github.com/OussamaELGUERRAOUI/smerisk/blob/main/README.md#running-the-http-service) gives each step for Linux, macOS, and Windows, and a first call to
 check the service. To update it, `git pull` then run the install command again.
 
 For a hosted service:
@@ -66,8 +71,8 @@ Without a token and without `SMERISK_ALLOW_ANONYMOUS`, every `/v1` call answers 
 
 | Routes | Level | Answer |
 | --- | --- | --- |
-| `POST /v1/usecases/{name}` (11 use cases, see [the index](README.md#use-cases)) | business: raw data | 200, or 202 for `payroll-at-risk`, `cash-at-risk`, `fixed-price-risk`, `utilization-forecast` |
-| `POST /v1/simulation/aggregate`, `/v1/pert/estimate`, … (15 formulas, see [the index](README.md#formula-reference)) | formulas: parameters | 200; 202 for `fixed-price-completion`, `utilization/forecast`, and `simulation/aggregate` above 20,000 draws |
+| `POST /v1/usecases/{name}` (11 use cases, see [the index](reference.md#use-cases)) | business: raw data | 200, or 202 for `payroll-at-risk`, `cash-at-risk`, `fixed-price-risk`, `utilization-forecast` |
+| `POST /v1/simulation/aggregate`, `/v1/pert/estimate`, … (15 formulas, see [the index](reference.md#formula-reference)) | formulas: parameters | 200; 202 for `fixed-price-completion`, `utilization/forecast`, and `simulation/aggregate` above 20,000 draws |
 | `GET /v1/jobs/{job_id}` | jobs | status and result |
 | `POST /v1/datasets`, `PUT /v1/datasets/{id}/pages/{n}` (and `/fec`), `POST /v1/datasets/{id}/complete`, `GET /v1/datasets/{id}`, `POST /v1/datasets/fec`, `DELETE /v1/datasets/{id}` | datasets | 201, 200, 204 |
 | `GET /health` | service | `{"status": "ok", "library_version": …}` |

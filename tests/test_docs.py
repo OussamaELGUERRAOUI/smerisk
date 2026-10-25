@@ -8,7 +8,7 @@ from pathlib import Path
 import pytest
 
 ROOT = Path(__file__).resolve().parent.parent
-PAGES = [ROOT / "README.md"] + [
+PAGES = [ROOT / "README.md", ROOT / "docs" / "index.md"] + [
     p
     for p in sorted([*(ROOT / "docs").glob("*.md"), *(ROOT / "docs").glob("*/*.md")])
     if "**Status:** implemented" in p.read_text("utf-8")

@@ -1,4 +1,9 @@
-# smerisk documentation
+---
+title: smerisk documentation: formula and use case reference
+description: Index of the smerisk formulas, use cases, HTTP endpoints and shared conventions.
+---
+
+# smerisk documentation: formula and use case reference
 
 There is one page per formula and per use case. Each page describes its purpose, input and output contracts,
 calculation, warnings, errors, and limitations. The contracts are based on the specification (§3–§12). The specification is currently

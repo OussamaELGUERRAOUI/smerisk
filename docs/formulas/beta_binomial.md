@@ -1,4 +1,11 @@
-# `beta_binomial`
+---
+title: Beta-Binomial rate with a prior in Python
+description: Estimate a probability from success counts with a Beta prior, a credible interval and the weight of the prior.
+---
+
+# Beta-Binomial rate with a prior in Python
+
+Function: `beta_binomial`
 
 ## Purpose
 

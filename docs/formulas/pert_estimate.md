@@ -1,4 +1,11 @@
-# `pert_estimate`
+---
+title: PERT three-point estimate in Python
+description: Compute expected effort, total effort at confidence levels and contingency from optimistic, most-likely and pessimistic task estimates.
+---
+
+# PERT three-point estimate in Python
+
+Function: `pert_estimate`
 
 ## Purpose
 

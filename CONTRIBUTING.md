@@ -13,7 +13,7 @@ uv run ruff format --check .
 ## Guidelines
 
 - **One documentation page per formula:** every added or changed formula must have a corresponding
-  `docs/formulas/<function>.md` page, and the table in [`docs/README.md`](docs/README.md) must be updated in the
+  `docs/formulas/<function>.md` page, and the table in [`docs/reference.md`](docs/reference.md) must be updated in the
   same pull request.
 - **No calculation rules in `service/`:** the service validates input, calls the library, and formats responses.
 - **Reproducibility:** every randomized function accepts a seed; identical input, seed, and version produce
@@ -44,7 +44,7 @@ To publish version `0.1.0`:
 3. Commit (`Release 0.1.0`), then `git tag v0.1.0` and `git push origin main v0.1.0`.
 4. The `Publish` workflow checks that the tag matches the version, runs the tests, and publishes the library on
    TestPyPI, then PyPI. The service is not published: it is run from a clone (`git checkout v0.1.0` for that version).
-5. Set `__version__ = "0.2.0.dev0"` and commit, so that development builds are never mistaken for the release.
+5. Set `__version__ = "0.1.0."` and commit, so that development builds are never mistaken for the release.
 
 ## Formula page template
 

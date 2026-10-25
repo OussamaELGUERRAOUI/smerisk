@@ -1,4 +1,11 @@
-# `fixed_price_risk`
+---
+title: Fixed-price project risk with Monte Carlo in Python
+description: Estimate the final cost, margin and the chances of staying within budget and deadline for fixed-price projects from timesheets.
+---
+
+# Fixed-price project risk with Monte Carlo in Python
+
+Function: `fixed_price_risk`
 
 ## Purpose
 

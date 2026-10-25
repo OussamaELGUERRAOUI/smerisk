@@ -1,8 +1,15 @@
 # smerisk
 
-Probability and statistical calculations for small and medium-sized businesses: cash-flow and payroll risk,
-fixed-price projects, utilization, rate estimation with sparse data, survival, receivables, accounting anomalies,
-perishable goods, service staffing, and forecast reliability.
+smerisk is an open-source Python library for probabilistic management control in SMEs: payroll at risk, cash-flow at risk
+(CFaR), credibility-weighted rates, fixed-price project risk, receivables risk and Benford audits.
+
+[![CI](https://github.com/OussamaELGUERRAOUI/smerisk/actions/workflows/ci.yml/badge.svg)](https://github.com/OussamaELGUERRAOUI/smerisk/actions/workflows/ci.yml)
+[![PyPI](https://img.shields.io/pypi/v/smerisk)](https://pypi.org/project/smerisk/)
+[![Python versions](https://img.shields.io/pypi/pyversions/smerisk)](https://pypi.org/project/smerisk/)
+[![License](https://img.shields.io/pypi/l/smerisk)](https://github.com/OussamaELGUERRAOUI/smerisk/blob/main/LICENSE)
+[![Documentation](https://img.shields.io/badge/docs-online-blue)](https://oussamaelguerraoui.github.io/smerisk/)
+
+**Documentation: <https://oussamaelguerraoui.github.io/smerisk/>**
 
 Two ways to use it:
 
@@ -10,7 +17,7 @@ Two ways to use it:
 - **HTTP service** (FastAPI): clone this repository and run the service to call the same functions under `/v1/...`
   from any language; see [Running the HTTP service](#running-the-http-service).
 
-Documentation of each formula and use case is in [`docs/`](https://github.com/OussamaELGUERRAOUI/smerisk/blob/main/docs/README.md).
+Documentation of each formula and use case is on the [documentation site](https://oussamaelguerraoui.github.io/smerisk/).
 
 > **Status:** first release (`0.1.0`, alpha). All the functions of the specification are implemented: the formulas,
 > the raw data contracts, parameter preparation, the eleven business use cases, and the HTTP service. The API may

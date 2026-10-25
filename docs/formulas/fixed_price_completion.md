@@ -1,4 +1,11 @@
-# `fixed_price_completion`
+---
+title: Monte Carlo completion of a fixed-price project in Python
+description: Simulate the final cost, margin and deadline of an in-progress fixed-price project from remaining tasks and identified risks.
+---
+
+# Monte Carlo completion of a fixed-price project in Python
+
+Function: `fixed_price_completion`
 
 ## Purpose
 

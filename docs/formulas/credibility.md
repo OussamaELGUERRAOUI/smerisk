@@ -1,4 +1,11 @@
-# `credibility`
+---
+title: Bühlmann-Straub credibility in Python
+description: Blend a group's observed rate with a reference rate by exposure, so that small groups are not judged on noise.
+---
+
+# Bühlmann-Straub credibility in Python
+
+Function: `credibility`
 
 ## Purpose
 

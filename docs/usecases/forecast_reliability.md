@@ -1,4 +1,11 @@
-# `forecast_reliability`
+---
+title: Forecast reliability with Brier score and Kupiec test in Python
+description: Check whether past probabilities and intervals deserve trust, using the Brier score and Kupiec's test on stored forecasts.
+---
+
+# Forecast reliability with Brier score and Kupiec test in Python
+
+Function: `forecast_reliability`
 
 ## Purpose
 

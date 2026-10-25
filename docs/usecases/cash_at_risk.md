@@ -1,4 +1,11 @@
-# `cash_at_risk`
+---
+title: Cash-flow at risk (CFaR) in Python
+description: Forecast the weekly bank balance of the next quarter and the probability of running short from invoices, payments and known flows.
+---
+
+# Cash-flow at risk (CFaR) in Python
+
+Function: `cash_at_risk`
 
 ## Purpose
 

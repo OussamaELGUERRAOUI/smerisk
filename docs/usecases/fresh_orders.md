@@ -1,4 +1,11 @@
-# `fresh_orders`
+---
+title: Perishable goods order quantities in Python
+description: Recommend the units of each perishable product to prepare for a weekday from the sales of the same weekday over 12 weeks.
+---
+
+# Perishable goods order quantities in Python
+
+Function: `fresh_orders`
 
 ## Purpose
 
