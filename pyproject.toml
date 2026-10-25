@@ -57,6 +57,10 @@ exclude = ["/tests/service"]
 [tool.hatch.build.targets.wheel]
 packages = ["src/smerisk"]
 
+[tool.uv]
+# Rebuild the package when the version changes (it is read from _version.py, not from pyproject.toml).
+cache-keys = [{ file = "pyproject.toml" }, { file = "src/smerisk/_version.py" }]
+
 [tool.uv.workspace]
 members = ["service"]
 

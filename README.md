@@ -12,9 +12,9 @@ Two ways to use it:
 
 Documentation of each formula and use case is in [`docs/`](https://github.com/OussamaELGUERRAOUI/smerisk/blob/main/docs/README.md).
 
-> **Status:** under development (`0.1.0.dev0`). The fifteen formula-level functions (§3 to §8), raw-data contracts
-> (§10), parameter preparation (§11), the eleven business use cases (§12), and the HTTP service are implemented.
-> See the [changelog](https://github.com/OussamaELGUERRAOUI/smerisk/blob/main/CHANGELOG.md).
+> **Status:** first release (`0.1.0`, alpha). All the functions of the specification are implemented: the formulas,
+> the raw data contracts, parameter preparation, the eleven business use cases, and the HTTP service. The API may
+> still change before 1.0; see the [changelog](https://github.com/OussamaELGUERRAOUI/smerisk/blob/main/CHANGELOG.md).
 
 ## Installation
 

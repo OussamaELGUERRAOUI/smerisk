@@ -5,6 +5,10 @@ This project follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) an
 
 ## [Unreleased]
 
+## [0.1.0] - 2026-10-25
+
+First release.
+
 ### Added
 
 - Repository scaffold: `smerisk` library, `smerisk-service`, and continuous integration.

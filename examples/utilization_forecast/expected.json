@@ -194,7 +194,6 @@
  },
  "warnings": [],
  "meta": {
-  "library_version": "0.1.0.dev0",
   "method": "utilization-forecast"
  },
  "derived_parameters": {

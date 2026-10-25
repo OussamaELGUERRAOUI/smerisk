@@ -25,5 +25,8 @@ path = "../src/smerisk/_version.py"
 [tool.hatch.build.targets.wheel]
 packages = ["smerisk_service"]
 
+[tool.uv]
+cache-keys = [{ file = "pyproject.toml" }, { file = "../src/smerisk/_version.py" }]
+
 [tool.uv.sources]
 smerisk = { workspace = true }

@@ -7,6 +7,7 @@ from typing import Any
 
 import pytest
 
+import smerisk
 from smerisk import usecases
 
 EXAMPLES = sorted(p for p in (Path(__file__).resolve().parents[2] / "examples").iterdir() if p.is_dir())
@@ -38,4 +39,5 @@ def test_example_gives_its_expected_result(folder: Path) -> None:
     expected = json.loads((folder / "expected.json").read_text("utf-8"))
     out = getattr(usecases, folder.name)(inp).model_dump(mode="json")
     out["meta"].pop("duration_ms")
+    assert out["meta"].pop("library_version") == smerisk.__version__  # not in the files: it changes at each release
     assert_close(out, expected)

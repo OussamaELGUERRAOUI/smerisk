@@ -90,7 +90,6 @@
  },
  "warnings": [],
  "meta": {
-  "library_version": "0.1.0.dev0",
   "method": "fixed-price-risk"
  },
  "derived_parameters": {

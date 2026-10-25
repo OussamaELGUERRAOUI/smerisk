@@ -203,6 +203,7 @@ def test_examples_through_the_api(client: TestClient, folder: Path) -> None:
     body = wait_job(client, response)["result"] if response.status_code == 202 else response.json()
     assert response.status_code in (200, 202), response.text
     body["meta"].pop("duration_ms")
+    body["meta"].pop("library_version")
     assert_close(body, expected)
 
 
